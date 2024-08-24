@@ -2,6 +2,8 @@
 import { h } from 'vue'
 import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import { createMediumZoomProvider } from "./composables";
+import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
 import './style.css'
 import 'virtual:uno.css'
 
@@ -14,5 +16,7 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     // ...
+    enhanceAppWithTabs(app);
+    createMediumZoomProvider(app, router);
   }
 } satisfies Theme
