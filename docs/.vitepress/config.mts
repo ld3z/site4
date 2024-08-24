@@ -52,6 +52,11 @@ export default defineConfig({
     emoji: { defs },
     config(md) {
       md.use(emojiRender);
+      md.use(imgLazyload);
+      md.use(align);
+      md.use(figure);
+      md.use(tabsMarkdownPlugin);
+      md.use(imgSize);
     },
   },
   vite: {
