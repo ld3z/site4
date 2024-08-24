@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Site3",
-  description: "A VitePress Site",
+  title: "Site4",
+  description: "A misc site.",
   base: "/site4/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -14,16 +14,16 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Examples',
+        text: 'Resources',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Cuphead', link: '/cuphead' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/ld3z/site4' }
     ]
   }
 })
