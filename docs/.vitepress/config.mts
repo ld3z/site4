@@ -9,7 +9,10 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Cuphead', link: '/cuphead' }
+      { text: 'Cuphead', link: '/cuphead' },
+      { text: 'Pig 64', link: '/pig-64' },
+      { text: 'Piggy: Book 1', link: '/piggy-book1' },
+      { text: 'Piggy: Book 2', link: '/piggy-book2' }
     ],
 
     sidebar: [
@@ -17,7 +20,9 @@ export default defineConfig({
         text: 'Resources',
         items: [
           { text: 'Cuphead', link: '/cuphead' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Pig 64', link: '/pig-64' },
+          { text: 'Piggy: Book 1', link: '/piggy-book1' },
+          { text: 'Piggy: Book 2', link: '/piggy-book2' }
         ]
       }
     ],
