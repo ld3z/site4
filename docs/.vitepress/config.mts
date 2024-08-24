@@ -20,9 +20,7 @@ export default defineConfig({
         text: 'Resources',
         items: [
           { text: 'Cuphead', link: '/cuphead' },
-          { text: 'Pig 64', link: '/pig-64' },
-          { text: 'Piggy: Book 1', link: '/piggy-book1' },
-          { text: 'Piggy: Book 2', link: '/piggy-book2' }
+          { text: 'Pig 64', link: '/pig-64' }
         ]
       }
     ],
