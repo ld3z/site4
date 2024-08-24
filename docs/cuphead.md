@@ -7,7 +7,7 @@ description: Resource Page for Cuphead!
 
 This isn't so much as a game "guide" but more like a resource page.
 
-## Graveyard Puzzle (DLC)
+## Graveyard Puzzle (DLC) :skull:
 
 This is a helpful picture for completing the graveyard puzzle on World 4, since the graveyard puzzle is random per save file.
 
