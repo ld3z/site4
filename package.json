@@ -12,6 +12,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "type": "module",
   "devDependencies": {
     "@iconify-json/gg": "^1.1.10",
     "@iconify-json/ic": "^1.1.18",
