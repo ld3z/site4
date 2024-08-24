@@ -129,6 +129,37 @@
   --vp-custom-block-tip-code-bg: var(--vp-c-brand-soft);
 }
 
+.medium-zoom-overlay {
+  background-color: var(--vp-c-bg) !important;
+  z-index: 100;
+}
+
+.medium-zoom-overlay ~ img {
+  z-index: 101;
+}
+
+.medium-zoom--opened .medium-zoom-overlay {
+  opacity: 0.98 !important;
+}
+
+main figure {
+  margin: 2rem 0;
+  transition: transform var(--vp-tt);
+}
+
+main figure img {
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 2px 2px 8px 4px var(--vp-c-bg-alt);
+}
+
+main figure figcaption {
+  text-align: center;
+  margin-top: 1.25rem;
+  font-size: 0.875rem;
+  color: var(--vp-c-text-2);
+}
+
 /**
  * Component: Algolia
  * -------------------------------------------------------------------------- */
