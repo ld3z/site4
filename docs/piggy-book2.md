@@ -49,7 +49,7 @@ The numbers that are revealed using the wrench and the order of the symbols on t
 
 4. Type in the code in letters onto the keypad, from the closest number to the farthest. If the code is correct, the keypad should say "*PASSCODE ACCEPTED*" and a cutscene will play. If the code is incorrect, the keypad will say "*SYSTEM LOCKED*" and cannot be used for the rest of the round, forcing you to play another round.
 
-![/PiggyCode](/piggyCode.png)
+![An image of the symbols representing each number. Photo credits goes to: [THECREEPYHEADPHONES](https://www.youtube.com/channel/UC_Eqz_eCwFXQBRtrtOWukZQ?themeRefresh=1) on YouTube.](/piggyCode.png)
 
 ## Step 2:
 
