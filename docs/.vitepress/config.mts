@@ -8,7 +8,7 @@ export default defineConfig({
   lastUpdated: true,
   cleanUrls: true,
   appearance: "dark",
-  head: [['link', { rel: 'icon', href: '/site4/favicon.ico' }]],
+  head: [['link', { rel: 'icon', href: '/site4/favicon.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
