@@ -1,5 +1,10 @@
 import { defineConfig } from 'vitepress'
 import UnoCSS from 'unocss/vite'
+import { figure } from "@mdit/plugin-figure";
+import { imgLazyload } from "@mdit/plugin-img-lazyload";
+import { align } from "@mdit/plugin-align";
+import { imgSize } from "@mdit/plugin-img-size";
+import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import { emojiRender, defs, movePlugin} from './configs/'
 
 // https://vitepress.dev/reference/site-config
