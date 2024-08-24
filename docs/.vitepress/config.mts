@@ -5,6 +5,10 @@ export default defineConfig({
   title: "Site4",
   description: "A misc site.",
   base: "/site4/",
+  lastUpdated: true,
+  cleanUrls: true,
+  appearance: "dark",
+  head: [['link', { rel: 'icon', href: '/site4/favicon.ico' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -20,7 +24,9 @@ export default defineConfig({
         text: 'Resources',
         items: [
           { text: 'Cuphead', link: '/cuphead' },
-          { text: 'Pig 64', link: '/pig-64' }
+          { text: 'Pig 64', link: '/pig-64' },
+          { text: 'Piggy: Book 1', link: '/piggy-book1' },
+          { text: 'Piggy: Book 2', link: '/piggy-book2' }
         ]
       }
     ],
