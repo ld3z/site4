@@ -8,18 +8,14 @@ hero:
   tagline: A wide array of guides and resources
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Latest Page
+      link: /piggy-book2
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Oldest Page
+      link: /cuphead
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Updates Frequently
+    details: Wiki updates frequently so check back for updates!
 ---
 
