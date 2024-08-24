@@ -6,6 +6,7 @@ hero:
   name: "Site4"
   text: "A misc site."
   tagline: A wide array of guides and resources
+  image: /public/favicon.png
   actions:
     - theme: brand
       text: Latest Page
