@@ -3,7 +3,7 @@ title: Pig 64 Guide
 description: Guide for Pig 64!
 ---
 
-# **Pig 64 Guide**
+# **Pig 64 Guide** :pig-nose:
 
 This is a page which will instruct someone, on how to obtain all of [Pig 64's](https://www.roblox.com/games/18109142315/PIG-64) badges.
 **This will not go over how to get the Keymaster's badge from Piggy!** **If you need a guide on how to get the Keymaster badge look here:** <https://www.youtube.com/watch?v=S5C-39FvIzM>
@@ -16,7 +16,7 @@ You need to have the [Keymaster's badge](https://www.rolimons.com/gamebadge/1368
 This quest is not possible on console/with a controller due to several things like keypads, pipe puzzles and crafting not being picked up as buttons on a controller. So, it is suggested that players doing this should use a mobile device or PC if possible.
 :::
 
-## Potato Pout
+## Potato Pout :potato:
 
 1. Use the *Glitch Key* given automatically by the Keymaster badge to open the glitched door in Subway. Interact with the crying Mr. P in the corner of the room. After talking to him, you'll want to head to the Arcade map.
 
@@ -53,13 +53,13 @@ A song's capital letter indicates what direction the claw will move. For example
 
 6. Go back to Subway map and give the potato to Mr. P. This will drain all of the water from the map and leave behind his hat, which can be picked up and worn by the player once equipped.
 
-## Operation: Employee
+## Operation: Employee :mdi-bag-suitcase:
 
 1. Buy the *Suitcase*. Hold it after equipping Mr. P's hat to access the tall building in the lobby.
 
 2. Input the code `362761` when prompted. This allows for entry into the building and then into the glitch world.
 
-## Flip Side
+## Flip Side :coin:
 
 1. Collect the items and complete the pipe puzzles scattered in each accessible area in the glitch world.
 

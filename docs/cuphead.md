@@ -3,11 +3,11 @@ title: Cuphead
 description: Resource Page for Cuphead!
 ---
 
-# **Cuphead**
+# **Cuphead** :teacup-without-handle:
 
 This isn't so much as a game "guide" but more like a resource page.
 
-## Graveyard Puzzle (DLC) :skull:
+## Graveyard Puzzle (DLC)
 
 This is a helpful picture for completing the graveyard puzzle on World 4, since the graveyard puzzle is random per save file.
 
