@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+import UnoCSS from 'unocss/vite'
+import { emojiRender, defs, movePlugin} from './configs/'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -11,6 +13,7 @@ export default defineConfig({
   head: [['link', { rel: 'icon', href: '/site4/favicon.png' }]],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
+    logo: '/favicon.png',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Cuphead', link: '/cuphead' },
@@ -31,8 +34,32 @@ export default defineConfig({
       }
     ],
 
+    search: {
+      provider: 'local'
+    },
+
     socialLinks: [
       { icon: 'github', link: 'https://github.com/ld3z/site4' }
     ]
-  }
-})
+  },
+
+  markdown: {
+    emoji: { defs },
+    config(md) {
+      md.use(emojiRender);
+    },
+  },
+  vite: {
+    plugins: [
+      UnoCSS({
+        configFile: "../unocss.config.ts",
+      }),
+      {
+        name: "custom:adjust-order",
+        configResolved(c) {
+          movePlugin(c.plugins as any, "vitepress", "before", "unocss:transformers:pre");
+        },
+      },
+    ],
+  },
+});
