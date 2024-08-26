@@ -24,7 +24,8 @@ export default defineConfig({
       { text: 'Cuphead', link: '/cuphead' },
       { text: 'Pig 64', link: '/pig-64' },
       { text: 'Piggy: Book 1', link: '/piggy-book1' },
-      { text: 'Piggy: Book 2', link: '/piggy-book2' }
+      { text: 'Piggy: Book 2', link: '/piggy-book2' },
+      { text: 'Phantom Forces', link: '/phantom-forces' }
     ],
 
     sidebar: [
@@ -34,7 +35,8 @@ export default defineConfig({
           { text: 'Cuphead', link: '/cuphead' },
           { text: 'Pig 64', link: '/pig-64' },
           { text: 'Piggy: Book 1', link: '/piggy-book1' },
-          { text: 'Piggy: Book 2', link: '/piggy-book2' }
+          { text: 'Piggy: Book 2', link: '/piggy-book2' },
+          { text: 'Phantom Forces', link: '/phantom-forces' }
         ]
       }
     ],
