@@ -4,6 +4,7 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { createMediumZoomProvider } from "./composables";
 import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
+import Tooltip from "./components/Tooltip.vue";
 import './style.css'
 import 'virtual:uno.css'
 
@@ -18,5 +19,6 @@ export default {
     // ...
     enhanceAppWithTabs(app);
     createMediumZoomProvider(app, router);
+    app.component("Tooltip", Tooltip);
   }
 } satisfies Theme
