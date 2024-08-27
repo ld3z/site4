@@ -32,11 +32,11 @@ export default defineConfig({
       {
         text: 'Resources',
         items: [
-          { text: 'Cuphead', link: '/cuphead' },
-          { text: 'Pig 64', link: '/pig-64' },
-          { text: 'Piggy: Book 1', link: '/piggy-book1' },
-          { text: 'Piggy: Book 2', link: '/piggy-book2' },
-          { text: 'Phantom Forces', link: '/phantom-forces' }
+          { text: '<span class="i-mdi:steam"></span> <span class="i-simple-icons:gogdotcom"></span> Cuphead', link: '/cuphead' },
+          { text: '<span class="i-simple-icons:roblox"></span> Pig 64', link: '/pig-64' },
+          { text: '<span class="i-simple-icons:roblox"></span> Piggy: Book 1', link: '/piggy-book1' },
+          { text: '<span class="i-simple-icons:roblox"></span> Piggy: Book 2', link: '/piggy-book2' },
+          { text: '<span class="i-simple-icons:roblox"></span> Phantom Forces', link: '/phantom-forces' }
         ]
       }
     ],

@@ -11,7 +11,13 @@ You'll find below a list of essential items if you want to play Phantom Forces!
 
 - [Spezi's Attachment Sheet](https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/edit?gid=1214029714#gid=1214029714) :glowing-star: <tooltip><ul><li>Updated Frequently</li><li>Is sort of based off of personal preference, so YMMV</li></ul></tooltip>
 - [Extension Cable's Grip Effects](https://docs.google.com/document/d/1c8S25U19h2UOVM2FBt_wfJt-q-yU0k5gu6baL9dzMCw/edit) <tooltip><ul><li>Is a bit outdated</li></ul></tooltip>
+
+## Community:
 - [r/PhantomForces](https://www.reddit.com/r/PhantomForces/) :mdi-reddit:
+- [Stylis Support Discord](https://discord.gg/cDV2Y5WqYg) :ic-outline-discord:
+- [Phantom Forces Fandom](https://roblox-phantom-forces.fandom.com/wiki/Phantom_Forces_Wiki) :simple-icons-fandom:
+- [Stylis Studio's Twitter](https://twitter.com/stylisstudios) :mdi-twitter:
+- [Stylis Roblox Group](https://www.roblox.com/groups/1103278/StyLiS-Studios#!/about) :simple-icons-roblox:
 
 ## Youtube Channels :mdi-youtube:
 - [Strider](https://www.youtube.com/@StriderPF)
