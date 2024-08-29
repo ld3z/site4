@@ -25,7 +25,8 @@ export default defineConfig({
       { text: 'Pig 64', link: '/pig-64' },
       { text: 'Piggy: Book 1', link: '/piggy-book1' },
       { text: 'Piggy: Book 2', link: '/piggy-book2' },
-      { text: 'Phantom Forces', link: '/phantom-forces' }
+      { text: 'Phantom Forces', link: '/phantom-forces' },
+      { text: 'Tower Defense Sim', link: '/tds' }
     ],
 
     sidebar: [
@@ -36,7 +37,8 @@ export default defineConfig({
           { text: 'Pig 64', link: '/pig-64' },
           { text: 'Piggy: Book 1', link: '/piggy-book1' },
           { text: 'Piggy: Book 2', link: '/piggy-book2' },
-          { text: 'Phantom Forces', link: '/phantom-forces' }
+          { text: 'Phantom Forces', link: '/phantom-forces' },
+          { text: 'Tower Defense Sim', link: '/tds' }
         ]
       }
     ],
