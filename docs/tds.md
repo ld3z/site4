@@ -8,17 +8,17 @@ description: Resource Page for TDS!
 You'll find below a list of strategies, guides, and wiki pages for TDS!
 
 ## Strategies:
-- [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :glowing-star: <tooltip><ul><li>Most commonly used strategy</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li></ul><tooltip>
-- [Violent Souls](https://docs.google.com/document/d/1JrEKFaLYorokU8F15PSvyfs585PYeOly6HqgLt-m9Ss/edit) :glowing-star: <tooltip><ul><li>Strategy to beat Lost Souls on the Pizza Party map</li><li>100% Win rate</li><li>Need 4 people</li></ul><tooltip>
-- [Toxic Warfare (Trio)](https://docs.google.com/document/d/17NFb41DmAbkWobhsQ9FytWy_X-DGF9yoCNQDGfMSlv8/edit#heading=h.xr59spo9o45t) <tooltip><ul><li>Strategy to triumph Polluted Wastelands</li><li>Trio ONLY</li><li>No RNG</li></ul><tooltip>
+- [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :glowing-star: <tooltip><ul><li>Most commonly used strategy</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li></ul></tooltip>
+- [Violent Souls](https://docs.google.com/document/d/1JrEKFaLYorokU8F15PSvyfs585PYeOly6HqgLt-m9Ss/edit) :glowing-star: <tooltip><ul><li>Strategy to beat Lost Souls on the Pizza Party map</li><li>100% Win rate</li><li>Need 4 people</li></ul></tooltip>
+- [Toxic Warfare (Trio)](https://docs.google.com/document/d/17NFb41DmAbkWobhsQ9FytWy_X-DGF9yoCNQDGfMSlv8/edit#heading=h.xr59spo9o45t) <tooltip><ul><li>Strategy to triumph Polluted Wastelands</li><li>Trio ONLY</li><li>No RNG</li></ul></tooltip>
 
 ## Community:
-- [Tower Defense Simulator Wiki](https://tds.fandom.com/wiki/Tower_Defense_Simulator_Wiki) :simple-icons-fandom: :glowing-star: <tooltip><ul><li>Updated frequently</li><li>Has better changelogs for when game updates</li><li>Go to for any TDS knowledge</li></ul><tooltip>
+- [Tower Defense Simulator Wiki](https://tds.fandom.com/wiki/Tower_Defense_Simulator_Wiki) :simple-icons-fandom: :glowing-star: <tooltip><ul><li>Updated frequently</li><li>Has better changelogs for when game updates</li><li>Go to for any TDS knowledge</li></ul></tooltip>
 - [Tower Defense Official Discord](https://discord.gg/tds) :ic-outline-discord: :glowing-star:
 - [TDS Wiki Discord](https://discord.gg/MtcRRjUA7F) :ic-outline-discord:
 - [r/TDS_Roblox](https://www.reddit.com/r/TDS_Roblox/) :mdi-reddit:
 - [Paradoxum Games Twitter](https://x.com/paradoxum_games) :mdi-twitter: :glowing-star:
-- [Paradoxum Games Roblox Group](https://www.roblox.com/groups/4914494/Paradoxum-Games) :simple-icons-roblox: :glowing-star: <tooltip><ul><li>Highly recommend to join because of the extra starter cash that you get in the beginning</li><li>Some strategies require you to be in the group to work</li></ul><tooltip>
+- [Paradoxum Games Roblox Group](https://www.roblox.com/groups/4914494/Paradoxum-Games) :simple-icons-roblox: :glowing-star: <tooltip><ul><li>Highly recommend to join because of the extra starter cash that you get in the beginning</li><li>Some strategies require you to be in the group to work</li></ul></tooltip>
 
 ## Youtube Channels: :mdi-youtube:
 - [WikiaColors](https://www.youtube.com/@WikiaColors)
