@@ -18,7 +18,7 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 - [TDS Wiki Discord](https://discord.gg/MtcRRjUA7F) :ic-outline-discord:
 - [r/TDS_Roblox](https://www.reddit.com/r/TDS_Roblox/) :mdi-reddit:
 - [Paradoxum Games Twitter](https://x.com/paradoxum_games) :glowing-star: :mdi-twitter:
-- [Paradoxum Games Roblox Group](https://www.roblox.com/groups/4914494/Paradoxum-Games) :glowing-star: :simple-icons-roblox: <tooltip><ul><li>Highly recommend to join because of the extra starter cash that you get in the beginning</li><li>Some strategies require you to be in the group to work</li></ul></tooltip>
+- [Paradoxum Games Roblox Group](https://www.roblox.com/groups/4914494/Paradoxum-Games) :glowing-star: :simple-icons-roblox: <tooltip><ul><li>Highly recommended to join because of the extra starter cash that you get in the beginning</li><li>Some strategies require you to be in the group to work</li></ul></tooltip>
 
 ## Youtube Channels: :mdi-youtube:
 - [WikiaColors](https://www.youtube.com/@WikiaColors)
