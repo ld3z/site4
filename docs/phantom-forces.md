@@ -15,6 +15,7 @@ You'll find below a list of essential items if you want to play Phantom Forces!
 
 ## Community:
 - [r/PhantomForces](https://www.reddit.com/r/PhantomForces/) :mdi-reddit:
+- [Stylis Discord](https://discord.gg/stylis) :glowing-star: :ic-outline-discord:
 - [Stylis Support](https://discord.gg/cDV2Y5WqYg) :ic-outline-discord:
 - [Phantom Forces Wiki](https://roblox-phantom-forces.fandom.com/wiki/Phantom_Forces_Wiki) :simple-icons-fandom:
 - [Stylis Studio's Twitter](https://twitter.com/stylisstudios) :mdi-twitter:
