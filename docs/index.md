@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Latest Page
-      link: /piggy-book2
+      link: /tds
     - theme: alt
       text: Oldest Page
       link: /cuphead
