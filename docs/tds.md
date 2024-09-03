@@ -26,3 +26,4 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 - [GazzyRazz](https://www.youtube.com/@GazzyRazz)
 - [Elite](https://www.youtube.com/@EliteElite)
 - [CORSO](https://www.youtube.com/@CORSOBLOX)
+- [Kenu](https://www.youtube.com/@kenuytb)
