@@ -21,9 +21,10 @@ You'll find below a list of essential items if you want to play Phantom Forces!
 - [Stylis Studio's Twitter](https://twitter.com/stylisstudios) :mdi-twitter:
 - [Stylis Roblox Group](https://www.roblox.com/groups/1103278/StyLiS-Studios#!/about) :simple-icons-roblox:
 
-## Youtube Channels :mdi-youtube:
+## Youtube Channels: :mdi-youtube:
 - [Strider](https://www.youtube.com/@StriderPF)
 - [SomeSteven](https://www.youtube.com/@SomeSteven)
 - [corny](https://www.youtube.com/@cornycob)
 - [Snowy](https://www.youtube.com/@SnowyPF)
 - [Fantix](https://www.youtube.com/@FantixYT)
+- [Oscar](https://www.youtube.com/@OreoVanillaCat)

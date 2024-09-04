@@ -27,3 +27,5 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 - [Elite](https://www.youtube.com/@EliteElite)
 - [CORSO](https://www.youtube.com/@CORSOBLOX)
 - [Kenu](https://www.youtube.com/@kenuytb)
+- [EclipseTDS](https://www.youtube.com/@EclipseTDS)
+- [Propellars](https://www.youtube.com/@propellars)
