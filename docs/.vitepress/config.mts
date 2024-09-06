@@ -23,11 +23,16 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Cuphead', link: '/cuphead' },
+      {
+        text:"Roblox Games",
+        items: [
       { text: 'Pig 64', link: '/pig-64' },
       { text: 'Piggy: Book 1', link: '/piggy-book1' },
       { text: 'Piggy: Book 2', link: '/piggy-book2' },
       { text: 'Phantom Forces', link: '/phantom-forces' },
       { text: 'Tower Defense Simulator', link: '/tds' }
+        ]
+      }
     ],
 
     sidebar: [
