@@ -7,7 +7,7 @@ description: Resource Page for Phantom Forces!
 
 You'll find below a list of essential items if you want to play Phantom Forces!
 
-## Resources:
+## Resources: :clipboard:
 
 - [Spezi's Attachment Sheet](https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/edit?gid=1214029714#gid=1214029714) :glowing-star: <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/spezi" /> <tooltip><ul><li>Updated Frequently</li><li>Is sort of based off of personal preference, so YMMV</li><li>Generally really good loadouts/attachment setups</li></ul></tooltip>
 - [Extension Cable's Grip Effects](https://docs.google.com/document/d/1c8S25U19h2UOVM2FBt_wfJt-q-yU0k5gu6baL9dzMCw/edit) <tooltip><ul><li>Is a bit outdated</li><li>Gives the player a sense of what each grip does to recoil</li><li>Spezi’s sheet has a better page for grip effects found [here](https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/edit?gid=1381239146#gid=1381239146)</li></ul></tooltip>
@@ -17,7 +17,7 @@ You'll find below a list of essential items if you want to play Phantom Forces!
 - [r/PhantomForces](https://www.reddit.com/r/PhantomForces/) :mdi-reddit:
 - Stylis Discord :glowing-star: <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/stylis" />
 - Stylis Support <Badge type="tip" icon="i-ic-outline-discord" text="Discord" link="https://discord.gg/cDV2Y5WqYg" />
-- Phantom Forces Wiki <Badge type="tip" icon="i-simple-icons-fandom" text="Link" link="https://roblox-phantom-forces.fandom.com/wiki/Phantom_Forces_Wiki" />
+- Phantom Forces Wiki <Badge type="tip" icon="i-simple-icons-fandom" text="Link" link="https://roblox-phantom-forces.fandom.com/wiki/Phantom_Forces_Wiki" /> <tooltip><ul><li>Updated frequently</li><li>Go to for any PF knowledge</li></ul></tooltip>
 - [Stylis Studio's Twitter](https://twitter.com/stylisstudios) :mdi-twitter:
 - [Stylis Roblox Group](https://www.roblox.com/groups/1103278/StyLiS-Studios#!/about) :simple-icons-roblox:
 
