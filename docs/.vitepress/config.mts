@@ -5,6 +5,7 @@ import { imgLazyload } from "@mdit/plugin-img-lazyload";
 import { align } from "@mdit/plugin-align";
 import { imgSize } from "@mdit/plugin-img-size";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
+import { fileURLToPath, URL } from "url";
 import { emojiRender, defs, movePlugin} from './configs/'
 
 // https://vitepress.dev/reference/site-config
@@ -75,5 +76,15 @@ export default defineConfig({
         },
       },
     ],
+    resolve: {
+			alias: [
+				{
+					find: /^.*\/VPBadge\.vue$/,
+					replacement: fileURLToPath(
+						new URL("./theme/components/Badge.vue", import.meta.url),
+					),
+				},
+      ]
+    }
   },
 });
