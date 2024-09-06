@@ -39,7 +39,7 @@ If you pick up another item while holding the photo, it will disappear, and you 
 
 2. You will get different dialogue, a different cutscene, and the end credits will change. After the cutscene ends, you will be awarded the badge and the Mr. P skin.
 
-:::green "I followed these steps and still didn't get the badge. What did I do wrong?"
+:::tip "I followed these steps and still didn't get the badge. What did I do wrong?"
 If you didn't get the badge, make sure to check the following:
 
 1. You have **all** of the badges for Book 1, including both the Good and Bad endings of Plant.
