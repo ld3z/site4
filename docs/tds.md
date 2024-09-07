@@ -26,6 +26,7 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 ## Youtube Channels: :mdi-youtube:
 - [WikiaColors](https://www.youtube.com/@WikiaColors)
 - [GazzyRazz](https://www.youtube.com/@GazzyRazz)
+- [Kitsunal.](https://www.youtube.com/@Kitsunal.)
 - [Elite](https://www.youtube.com/@EliteElite)
 - [CORSO](https://www.youtube.com/@CORSOBLOX)
 - [Kenu](https://www.youtube.com/@kenuytb)
