@@ -23,6 +23,7 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Cuphead', link: '/cuphead' },
+      { text: 'Satisfactory', link: '/satisfactory' },
       {
         text:"Roblox Games",
         items: [
@@ -40,6 +41,7 @@ export default defineConfig({
         text: 'Resources',
         items: [
           { text: 'Cuphead', link: '/cuphead' },
+          { text: 'Satisfactory', link: '/satisfactory' },
           { text: 'Pig 64', link: '/pig-64' },
           { text: 'Piggy: Book 1', link: '/piggy-book1' },
           { text: 'Piggy: Book 2', link: '/piggy-book2' },
