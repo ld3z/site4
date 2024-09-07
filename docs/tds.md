@@ -7,6 +7,8 @@ description: Resource Page for TDS!
 
 You'll find below a list of strategies, guides, and wiki pages for TDS!
 
+![](/tdsbanner.png)
+
 ## Strategies:
 - [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :glowing-star: <tooltip><ul><li>Most commonly used strategy to triumph hardcore mode</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li></ul></tooltip>
 - [Violent Souls](https://docs.google.com/document/d/1JrEKFaLYorokU8F15PSvyfs585PYeOly6HqgLt-m9Ss/edit) :glowing-star: <tooltip><ul><li>Strategy to beat [Lost Souls](https://www.rolimons.com/gamebadge/2129234540) on the Pizza Party map</li><li>100% Win rate</li><li>Need 4 people</li></ul></tooltip>
