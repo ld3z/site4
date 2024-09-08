@@ -32,3 +32,4 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 - [Kenu](https://www.youtube.com/@kenuytb)
 - [EclipseTDS](https://www.youtube.com/@EclipseTDS)
 - [Propellars](https://www.youtube.com/@propellars)
+- [Rian](https://youtube.com/@rainyrians)
