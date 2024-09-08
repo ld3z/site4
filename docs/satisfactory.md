@@ -24,3 +24,8 @@ Keep in mind that anything here is unofficial meaning that support for modding i
 - [Modding FAQ](https://docs.ficsit.app/satisfactory-modding/latest/faq.html) :glowing-star: <Badge type="tip" icon="i-material-symbols-docs-outline" text="Docs" link="https://docs.ficsit.app/" />
 - [Satisfactory Mod Manager](https://github.com/satisfactorymodding/SatisfactoryModManager/releases) :glowing-star: <Badge type="tip" icon="i-mdi-github-face" text="Repo" link="https://github.com/satisfactorymodding/SatisfactoryModManager" />
 - [FICSIT Augmentation Database](https://ficsit.app/) :glowing-star:
+
+## Youtube Channels: :mdi-youtube:
+
+- [Let's Game it out](https://youtube.com/playlist?list=PLrBjj4brdIRwRkGTLKqH5hlS_mlMYn_J0&feature=shared)
+- [ImKibitz](https://youtube.com/@imkibitz)
