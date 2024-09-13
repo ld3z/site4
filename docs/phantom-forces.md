@@ -24,7 +24,7 @@ You'll find below a list of essential items if you want to play Phantom Forces!
 - Stylis Support <Badge type="tip" icon="i-ic-outline-discord" text="Invite" link="https://discord.gg/cDV2Y5WqYg" />
 - Phantom Forces Wiki <Badge type="tip" icon="i-simple-icons-fandom" text="Link" link="https://roblox-phantom-forces.fandom.com/wiki/Phantom_Forces_Wiki" /> <tooltip><ul><li>Updated frequently</li><li>Go to for any PF knowledge</li></ul></tooltip>
 - [Stylis Studio's Twitter](https://twitter.com/stylisstudios) :mdi-twitter:
-- [Stylis Roblox Group](https://www.roblox.com/groups/1103278/StyLiS-Studios#!/about) :simple-icons-roblox:
+- Stylis Roblox Group <Badge type="tip" icon="i-simple-icons-roblox" text="Group" link="https://www.roblox.com/groups/1103278/StyLiS-Studios#!/about" />
 
 ## Youtube Channels: :mdi-youtube:
 - [SomeSteven](https://www.youtube.com/@SomeSteven)
