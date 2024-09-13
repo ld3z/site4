@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Latest Page
-      link: /tds
+      link: /satisfactory
     - theme: alt
       text: Oldest Page
       link: /cuphead

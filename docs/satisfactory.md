@@ -15,7 +15,7 @@ You'll find below a list of essential items that may help you play Satisfactory!
 - [Coffee Stain Studios](https://www.coffeestainstudios.com/) - / [:mdi-twitter:](https://x.com/coffee_stain/) / [:mdi-youtube:](https://www.youtube.com/c/coffeestain)
 - [r/SatisfactoryGame](https://www.reddit.com/r/SatisfactoryGame/) :mdi-reddit:
 - [Satisfactory Wiki](https://satisfactory.wiki.gg/wiki/Satisfactory_Wiki) :simple-icons-wikidotgg:
-- [Satisfactory Calculator](https://satisfactory-calculator.com/) :glowing-star: <Badge type="tip" icon="i-simple-icons-patreon" text="Support Creator" link="https://www.patreon.com/EDSM" /> <tooltip><ul><li>Has a multitude of things ranging from mods, interactive maps, etc.</li><li>The go to for any Satisfactory knowledge</li></ul></tooltip>
+- [Satisfactory Calculator](https://satisfactory-calculator.com/) :glowing-star: <Badge type="tip" icon="i-simple-icons-patreon" text="Support" link="https://www.patreon.com/EDSM" /> <tooltip><ul><li>Has a multitude of things ranging from mods, interactive maps, etc.</li><li>The go to for any Satisfactory knowledge</li></ul></tooltip>
 
 ## Modding: :mdi-wrench-outline:
 
