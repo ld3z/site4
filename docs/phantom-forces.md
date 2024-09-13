@@ -18,8 +18,7 @@ You'll find below a list of essential items if you want to play Phantom Forces!
 - [Time_4trouble's Melee Sheet](https://docs.google.com/spreadsheets/d/1okT7tsmwJzlprtZmOI1KY4cbIlkoDZAttyLPS_z1_F0/edit?gid=1174543838#gid=1174543838)
 
 ## Community:
-- [r/PhantomForces](https://www.reddit.com/r/PhantomForces/) :mdi-reddit:
-- r/PhantomForces Discord <Badge type="tip" icon="i-ic-outline-discord" text="Invite" link="https://discord.gg/pfreddit" />
+- [r/PhantomForces](https://www.reddit.com/r/PhantomForces/) :mdi-reddit: <Badge type="tip" icon="i-ic-outline-discord" text="Invite" link="https://discord.gg/pfreddit" />
 - Stylis Discord :glowing-star: <Badge type="tip" icon="i-ic-outline-discord" text="Invite" link="https://discord.gg/stylis" />
 - Stylis Support <Badge type="tip" icon="i-ic-outline-discord" text="Invite" link="https://discord.gg/cDV2Y5WqYg" />
 - Phantom Forces Wiki <Badge type="tip" icon="i-simple-icons-fandom" text="Link" link="https://roblox-phantom-forces.fandom.com/wiki/Phantom_Forces_Wiki" /> <tooltip><ul><li>Updated frequently</li><li>Go to for any PF knowledge</li></ul></tooltip>

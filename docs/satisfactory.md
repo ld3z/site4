@@ -7,6 +7,8 @@ description: Resource Page for Satisfactory!
 
 You'll find below a list of essential items that may help you play Satisfactory!
 
+![](/satisfactorybanner.png)
+
 ## Resources: :clipboard:
 
 - [Satisfactory Official Website](https://www.satisfactorygame.com/)
