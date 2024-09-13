@@ -27,7 +27,7 @@ export default defineConfig({
       {
         text:"Roblox Games",
         items: [
-      { text: 'Pig 64', link: '/pig-64' },
+      { text: 'Pig 64', link: '/pig64' },
       { text: 'Piggy: Book 1', link: '/piggy-book1' },
       { text: 'Piggy: Book 2', link: '/piggy-book2' },
       { text: 'Phantom Forces', link: '/phantom-forces' },
@@ -42,7 +42,7 @@ export default defineConfig({
         items: [
           { text: 'Cuphead', link: '/cuphead' },
           { text: 'Satisfactory', link: '/satisfactory' },
-          { text: 'Pig 64', link: '/pig-64' },
+          { text: 'Pig 64', link: '/pig64' },
           { text: 'Piggy: Book 1', link: '/piggy-book1' },
           { text: 'Piggy: Book 2', link: '/piggy-book2' },
           { text: 'Phantom Forces', link: '/phantom-forces' },
