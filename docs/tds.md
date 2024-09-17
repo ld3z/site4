@@ -10,7 +10,7 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 ![](/tdsbanner.png)
 
 ## Strategies:
-- [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :glowing-star: <tooltip><ul><li>Most commonly used strategy to triumph hardcore mode</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li></ul></tooltip>
+- [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :glowing-star: <tooltip><ul><li>Most commonly used strategy to triumph hardcore mode</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li><li>Works with latest DJ rework</li></ul></tooltip>
 - [Violent Souls](https://docs.google.com/document/d/1JrEKFaLYorokU8F15PSvyfs585PYeOly6HqgLt-m9Ss/edit) :glowing-star: <tooltip><ul><li>Strategy to beat [Lost Souls](https://www.rolimons.com/gamebadge/2129234540) on the Pizza Party map</li><li>100% Win rate</li><li>Need 4 people</li></ul></tooltip>
 - [Toxic Warfare](https://docs.google.com/document/d/17NFb41DmAbkWobhsQ9FytWy_X-DGF9yoCNQDGfMSlv8/edit#heading=h.xr59spo9o45t) <tooltip><ul><li>Strategy to triumph Polluted Wastelands</li><li>Trio ONLY</li><li>No RNG</li></ul></tooltip>
 - [Silly Quickdraw](https://docs.google.com/document/d/1qHP0G-dXLSp7vtBeNs0-AvtGYSIGuLPpufXVmVxNiqU) :glowing-star: <tooltip><ul><li>Best way to triumph Badlands II and obtain [Quickdraw](https://www.rolimons.com/gamebadge/2128794398)</li><li>Can be used to farm coins (5100+) an hour</li><li>Works with latest DJ rework</li></ul></tooltip>
