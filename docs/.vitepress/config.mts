@@ -58,7 +58,8 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ld3z/site4' }
+      { icon: 'github', link: 'https://github.com/ld3z/site4' },
+      { icon: 'mastodon', link: 'https://mastodon.social/@ld3zian' }
     ]
   },
 
