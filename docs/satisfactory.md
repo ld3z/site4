@@ -33,3 +33,4 @@ Keep in mind that anything here is unofficial meaning that support for modding i
 
 - [Let's Game It Out](https://youtube.com/playlist?list=PLrBjj4brdIRwRkGTLKqH5hlS_mlMYn_J0&feature=shared)
 - [ImKibitz](https://youtube.com/@imkibitz)
+- [Welsknight](https://www.youtube.com/playlist?list=PL3e14exB92LJ6FS9TTg9U-xWwrE7cL4dg)
