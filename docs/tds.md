@@ -18,10 +18,9 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 
 ## Community:
 - [Tower Defense Simulator Wiki](https://tds.fandom.com/wiki/Tower_Defense_Simulator_Wiki) :glowing-star: :simple-icons-fandom: <tooltip><ul><li>Updated frequently</li><li>Has better changelogs for when game updates</li><li>Go to for any TDS knowledge</li></ul></tooltip>
-- Tower Defense Official Discord :glowing-star: <Badge type="tip" icon="i-ic-outline-discord" text="Invite" link="https://discord.gg/tds" />
+- Tower Defense Official Connections :glowing-star: - [:mdi-twitter:](https://x.com/paradoxum_games) / [:ic-outline-discord:](https://discord.gg/tds)
 - TDS Wiki Discord <Badge type="tip" icon="i-ic-outline-discord" text="Invite" link="https://discord.gg/MtcRRjUA7F" />
 - [r/TDS_Roblox](https://www.reddit.com/r/TDS_Roblox/) :mdi-reddit:
-- [Paradoxum Games Twitter](https://x.com/paradoxum_games) :glowing-star: :mdi-twitter:
 - Paradoxum Games Group :glowing-star: <Badge type="tip" icon="i-simple-icons-roblox" text="Group" link="https://www.roblox.com/groups/4914494/Paradoxum-Games" /> <tooltip><ul><li>Highly recommended to join because of the extra starter cash that you get in the beginning</li><li>Some strategies require you to be in the group to work</li></ul></tooltip>
 
 ## Youtube Channels: :mdi-youtube:
