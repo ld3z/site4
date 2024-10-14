@@ -4,6 +4,8 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { createMediumZoomProvider } from "./composables";
 import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
+import FloatingVue from "floating-vue";
+import "floating-vue/dist/style.css";
 import Tooltip from "./components/Tooltip.vue";
 import './style.css'
 import 'virtual:uno.css'
@@ -17,6 +19,15 @@ export default {
   },
   enhanceApp({ app, router, siteData }) {
     // ...
+    app.use(FloatingVue, {
+      themes: {
+        "info-tooltip": {
+          $extend: "tooltip",
+          $resetCss: true,
+          triggers: ["hover", "touch"],
+        },
+      },
+    });
     enhanceAppWithTabs(app);
     createMediumZoomProvider(app, router);
     app.component("Tooltip", Tooltip);

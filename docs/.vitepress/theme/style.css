@@ -177,3 +177,6 @@ main figure figcaption {
   --docsearch-primary-color: var(--vp-c-brand-1) !important;
 }
 
+.v-popper__arrow-container {
+  display: none;
+}
