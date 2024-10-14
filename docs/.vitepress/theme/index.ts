@@ -24,7 +24,7 @@ export default {
         "info-tooltip": {
           $extend: "tooltip",
           $resetCss: true,
-          triggers: ["hover", "touch"],
+          triggers: ["hover", "touch", "click"],
         },
       },
     });
