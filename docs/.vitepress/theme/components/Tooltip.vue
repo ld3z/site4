@@ -19,7 +19,7 @@ withDefaults(
     </button>
 
     <template #popper>
-      <div class="p-4 max-w-xs border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid">
+      <div class="p-4 max-w-lg border-$vp-c-divider bg-$vp-c-bg-alt b-rd-4 border-2 border-solid">
         <h3 class="text-lg font-semibold text-$vp-c-text-1 mb-2" v-text="title" />
         <p class="text-sm text-$vp-c-text-2">
           <slot />
