@@ -23,6 +23,13 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 - [r/TDS_Roblox](https://www.reddit.com/r/TDS_Roblox/) :mdi-reddit:
 - Paradoxum Games Group :glowing-star: <Badge type="tip" icon="i-simple-icons-roblox" text="Group" link="https://www.roblox.com/groups/4914494/Paradoxum-Games" /> <tooltip><li>Highly recommended to join because of the extra starter cash that you get in the beginning</li><li>Some strategies require you to be in the group to work</li></tooltip>
 
+## Common Terminology:
+
+| Term  | Meaning                                                                                                  |
+|-------|----------------------------------------------------------------------------------------------------------|
+| NST   | Stands for "No Special Towers" excludes towers such as, golden towers, hardcore towers, and event towers |
+| Micro | Short for micromanagement, means selling and replacing a tower from one spot to the next                 |
+
 ## Youtube Channels: :mdi-youtube:
 - [WikiaColors](https://www.youtube.com/@WikiaColors)
 - [GazzyRazz](https://www.youtube.com/@GazzyRazz)
