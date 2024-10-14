@@ -14,7 +14,7 @@ withDefaults(
 <template>
   <VTooltip theme="info-tooltip">
     <button
-      class="w-7 h-7 rounded-full bg-$vp-c-default-soft hover:bg-$vp-c-default-soft/40 text-primary border-$vp-c-default-soft hover:border-primary select-none rounded border-2 border-solid font-bold transition-all duration-300">
+      class="w-7 h-7 rounded-full bg-$vp-c-brand-soft hover:bg-$vp-c-brand-soft/40 text-primary border-$vp-c-brand-soft hover:border-primary select-none rounded border-2 border-solid font-bold transition-all duration-300">
       <div :class="icon" />
     </button>
 
