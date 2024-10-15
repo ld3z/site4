@@ -25,10 +25,11 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 
 ## Common Terminology:
 
-| Term  | Meaning                                                                                                  |
-|-------|----------------------------------------------------------------------------------------------------------|
-| NST   | Stands for "No Special Towers" excludes towers such as, golden towers, hardcore towers, and event towers |
-| Micro | Short for micromanagement, means selling and replacing a tower from one spot to the next                 |
+| Term      | Meaning                                                                                                                 |
+|-----------|-------------------------------------------------------------------------------------------------------------------------|
+| NST       | Stands for "No Special Towers" excludes towers such as, golden towers, hardcore towers, and event towers                |
+| Micro     | Short for "micromanagement", made popular by BTD, it just means selling and replacing a tower from one spot to the next |
+| Chain/COA | Means to chain the "Call of Arms" ability that Commander has by using one commander's ability one after the other       |
 
 ## Youtube Channels: :mdi-youtube:
 - [WikiaColors](https://www.youtube.com/@WikiaColors)
