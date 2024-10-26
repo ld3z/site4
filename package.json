@@ -28,7 +28,7 @@
     "@mdit/plugin-figure": "^0.13.1",
     "@mdit/plugin-img-lazyload": "^0.13.1",
     "@mdit/plugin-img-size": "^0.13.1",
-    "@types/node": "^22.7.9",
+    "@types/node": "^22.8.1",
     "@unocss/vite": "^0.63.6",
     "@vitejs/plugin-vue": "^5.1.4",
     "floating-vue": "^5.2.2",
