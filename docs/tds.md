@@ -10,13 +10,16 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 ![](/tdsbanner.png)
 
 ## Strategies:
-Below listed are strategies for the game separated by their respective maps
+Below listed are strategies for the game separated by their respective maps. Maps that are starred are recommended by my and are widely accepted in the community as the go-to strategy.
 
 ### Hardcore:
 - [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :glowing-star: <tooltip><li>Most commonly used strategy to triumph hardcore mode</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li><li>Works with latest DJ rework</li></tooltip>
+- [Trio Miners](https://docs.google.com/document/d/1R6d03hWLqdHd18U-vwPdw3GwdB1toH2YwzwrL9yhsW0/edit) <tooltip><li>Used to grind for hardcore gems really fast (600+ /hr)</li><li>Requires 3 people</li><li>Translated to Russian</li></tooltip>
 
 ### Pizza Party:
 - [Violent Souls](https://docs.google.com/document/d/1JrEKFaLYorokU8F15PSvyfs585PYeOly6HqgLt-m9Ss/edit) :glowing-star: <tooltip><li>Strategy to beat [Lost Souls](https://www.rolimons.com/gamebadge/2129234540) on the Pizza Party map</li><li>100% Win rate</li><li>Need 4 people</li></tooltip>
+- [Beginner Bashing](https://docs.google.com/document/d/1qn07Fo3uYTQsORwCyKBgNuJxZlfNl7pNMkV1hwemwBU/edit?usp=sharing) <tooltip><li>Solo coin grind on Pizza Party</li><li>4600+ coins per hour</li><li>2350 + exp per hour</li><li>Requires only 2 towers</li></tooltip>
+- [Pizza Munchers](https://docs.google.com/document/d/1zbY38sGIB3PkScfQSu8amxD66eAYYdPCNeQ_onDTZfE/edit)&[Pizza Shredders](https://docs.google.com/document/d/1rEtZH4eoWNLu_YEMI9NAkNn5Q-A533qsXjuo7niYpao/edit) <tooltip><li>Duo Pizza Party strategy for the Fallen Warden Mission</li><li>Pizza Shredders can be used to coin grind around 4000+ coins per hour</li><li>No special towers (NST)</li><li>Pizza Munchers does not require Brawler making it the not as safe as Pizza Shredders (use Pizza Shredder strat for safer triumph)</li></tooltip>
 
 ### Polluted Wasteland 2:
 - [Toxic Warfare](https://docs.google.com/document/d/17NFb41DmAbkWobhsQ9FytWy_X-DGF9yoCNQDGfMSlv8/edit#heading=h.xr59spo9o45t) <tooltip><li>Strategy to triumph Polluted Wastelands</li><li>Trio ONLY</li><li>No RNG</li></tooltip>
