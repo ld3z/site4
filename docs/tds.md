@@ -10,9 +10,18 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 ![](/tdsbanner.png)
 
 ## Strategies:
+Below listed are strategies for the game separated by their respective maps
+
+## Hardcore:
 - [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :glowing-star: <tooltip><li>Most commonly used strategy to triumph hardcore mode</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li><li>Works with latest DJ rework</li></tooltip>
+
+## Pizza Party:
 - [Violent Souls](https://docs.google.com/document/d/1JrEKFaLYorokU8F15PSvyfs585PYeOly6HqgLt-m9Ss/edit) :glowing-star: <tooltip><li>Strategy to beat [Lost Souls](https://www.rolimons.com/gamebadge/2129234540) on the Pizza Party map</li><li>100% Win rate</li><li>Need 4 people</li></tooltip>
+
+## Polluted Wasteland 2:
 - [Toxic Warfare](https://docs.google.com/document/d/17NFb41DmAbkWobhsQ9FytWy_X-DGF9yoCNQDGfMSlv8/edit#heading=h.xr59spo9o45t) <tooltip><li>Strategy to triumph Polluted Wastelands</li><li>Trio ONLY</li><li>No RNG</li></tooltip>
+
+## Badlands 2:
 - [Silly Quickdraw](https://docs.google.com/document/d/1qHP0G-dXLSp7vtBeNs0-AvtGYSIGuLPpufXVmVxNiqU) :glowing-star: <tooltip><li>Best way to triumph Badlands II and obtain [Quickdraw](https://www.rolimons.com/gamebadge/2128794398)</li><li>Can be used to farm coins (5100+) an hour</li><li>Works with latest DJ rework</li></tooltip>
 - [Gunslinger's Nightmare](https://docs.google.com/document/d/1DPfNhxLbipR9p3FlXWHvAthczX7onUxVNpz-YLUvJuQ/edit#heading=h.ndqo2um0rvd7) :glowing-star: <tooltip><li>Best way to triumph Badlands II and obtain Quickdraw</li><li>Only requires 3 people and no special towers (NST)</li><li>Works with latest DJ rework</li></tooltip>
 
