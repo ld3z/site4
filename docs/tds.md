@@ -10,7 +10,7 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 ![](/tdsbanner.png)
 
 ## Strategies:
-Below listed are strategies for the game separated by their respective maps. Maps that are starred are recommended by my and are widely accepted in the community as the go-to strategy.
+Below listed are strategies for the game separated by their respective maps. Maps that are starred are recommended by me and are widely accepted in the community as the go-to strategy.
 
 ### Hardcore:
 - [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :glowing-star: <tooltip><li>Most commonly used strategy to triumph hardcore mode</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li><li>Works with latest DJ rework</li></tooltip>
