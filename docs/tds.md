@@ -12,8 +12,8 @@ You'll find below a list of strategies, guides, and wiki pages for TDS!
 ## Strategies:
 Below listed are strategies for the game separated by their respective maps. Maps that are starred are recommended by me and are widely accepted in the community as the go-to strategy.
 
-:::tip
-I will not be including [Challenge Maps](https://tds.fandom.com/wiki/Challenge_Maps), [Hidden Wave](https://tds.fandom.com/wiki/Hidden_Wave) maps, or any [Event](https://tds.fandom.com/wiki/Events) only strategies!
+:::tip NOTE:
+I will not be including [Challenge Maps](https://tds.fandom.com/wiki/Challenge_Maps), [Hidden Wave](https://tds.fandom.com/wiki/Hidden_Wave) maps, or any [Event](https://tds.fandom.com/wiki/Events) strategies!
 :::
 
 ### Hardcore:
