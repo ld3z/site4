@@ -15,7 +15,7 @@ const imageSize = ref("550px"); // Fixed size for the image
         class="mx-auto" />
       <p class="text-title-lg mt-4 font-bold leading-tight text-white">404</p>
       <p class="text-body-lg flex flex-wrap items-center justify-center leading-snug text-gray-400">
-        404 Not Found
+        "If you don't believe in love, what's the point of living?" - Ron Swanson
       </p>
     </div>
   </div>
