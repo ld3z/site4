@@ -10,7 +10,7 @@ const imageSize = ref("550px"); // Fixed size for the image
     <div class="text-center">
       <img
         :style="{ width: imageSize, height: 'auto' }"
-        src="<iframe src="https://giphy.com/embed/tyttpHhJTOsQBTq5pMA" width="480" height="274" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/giffffr-tyttpHhJTOsQBTq5pMA">via GIPHY</a></p>"
+        src="/4040.gif"
         alt="404 Image"
         class="mx-auto" />
       <p class="text-title-lg mt-4 font-bold leading-tight text-white">404</p>
