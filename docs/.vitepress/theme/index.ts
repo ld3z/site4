@@ -7,6 +7,7 @@ import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
 import FloatingVue from "floating-vue";
 import "floating-vue/dist/style.css";
 import Tooltip from "./components/Tooltip.vue";
+import NotFoundComponent from "./components/notfound.vue";
 import './style.css'
 import 'virtual:uno.css'
 
@@ -15,6 +16,7 @@ export default {
   Layout: () => {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
+      "not-found": () => h(NotFoundComponent)
     })
   },
   enhanceApp({ app, router, siteData }) {
