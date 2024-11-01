@@ -10,7 +10,7 @@ You'll find below a list of essential items that may help you play Satisfactory!
 ## Resources: :clipboard:
 
 - [Unknown Worlds](https://unknownworlds.com) - / [:mdi-twitter:](https://x.com/Subnautica) / [:mdi-youtube:](https://www.youtube.com/user/subnautica) / [:mdi-reddit:](https://www.reddit.com/r/subnautica)
-- [Subnautica Wiki](https://subnautica.fandom.com/wiki/Subnautica_Wiki)
+- [Subnautica Wiki](https://subnautica.fandom.com/wiki/Subnautica_Wiki) <tooltip><li>Updated frequently</li><li>Go to for any Subnautica/Below Zero knowledge</li></tooltip>
 
 ## Modding: :mdi-wrench-outline:
 
