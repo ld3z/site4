@@ -24,6 +24,7 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Cuphead', link: '/cuphead' },
       { text: 'Satisfactory', link: '/satisfactory' },
+      { text: 'Subnautica', link: '/subnautica' },
       {
         text:"Roblox Games",
         items: [
@@ -43,6 +44,7 @@ export default defineConfig({
         items: [
           { text: 'Cuphead', link: '/cuphead' },
           { text: 'Satisfactory', link: '/satisfactory' },
+          { text: 'Subnautica', link: '/subnautica' },
           { text: 'Pig 64', link: '/pig64' },
           { text: 'Piggy: Book 1', link: '/piggy-book1' },
           { text: 'Piggy: Book 2', link: '/piggy-book2' },
