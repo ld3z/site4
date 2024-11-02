@@ -6,9 +6,9 @@ import { createMediumZoomProvider } from "./composables";
 import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
 import FloatingVue from "floating-vue";
 import "floating-vue/dist/style.css";
+import Post from './PostLayout.vue'
 import Tooltip from "./components/Tooltip.vue";
 import NotFoundComponent from "./components/notfound.vue";
-import Post from './PostLayout.vue'
 import './style.css'
 import 'virtual:uno.css'
 
