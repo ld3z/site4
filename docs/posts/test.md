@@ -12,3 +12,5 @@ footer: true
 <Post authors="ld3z"/>
 
 # include markdown here
+
+I guess I need to write some more and find out if this is actually working or not
