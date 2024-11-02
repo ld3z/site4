@@ -7,6 +7,8 @@ import { imgSize } from "@mdit/plugin-img-size";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import { fileURLToPath, URL } from "url";
 import { emojiRender, defs, movePlugin} from './configs/'
+import consola from 'consola'
+import {meta} from './constants'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
