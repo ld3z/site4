@@ -1,6 +1,5 @@
 import type { ContentData } from 'vitepress'
 import { createContentLoader } from 'vitepress'
-import { withBase } from 'vitepress'
 import { groupBy } from '../utils'
 
 interface Post {
@@ -18,7 +17,7 @@ function transformRawPosts(rawPosts: ContentData[]): Record<string, Post[]> {
   const posts: Post[] = rawPosts
     .map(({ url, frontmatter }) => ({
       title: frontmatter.title,
-      url: 'withBase(url)'
+      url,
       date: (frontmatter.date as Date).toISOString().slice(0, 10)
     }))
     .sort((a, b) => b.date.localeCompare(a.date))
