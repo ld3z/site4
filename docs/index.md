@@ -14,6 +14,9 @@ hero:
     - theme: alt
       text: Oldest Page
       link: /cuphead
+    - theme: alt
+      text: Posts
+      link: /posts
 
 features:
   - title: Updates Frequently

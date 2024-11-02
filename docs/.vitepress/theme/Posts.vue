@@ -17,7 +17,7 @@ const formatDate = (raw: string): string => {
   <div>
     <section>
       <h1 class="flex items-center gap-2">Posts</h1>
-      <p>PLEASE HELP I'M GOING INSANE!!!</p>
+      <p>Here are a couple of news items below:</p>
 
       I also have a
       <a href="feed.rss" target="_blank" title="RSS feed">
