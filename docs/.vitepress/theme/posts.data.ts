@@ -18,7 +18,7 @@ function transformRawPosts(rawPosts: ContentData[]): Record<string, Post[]> {
   const posts: Post[] = rawPosts
     .map(({ url, frontmatter }) => ({
       title: frontmatter.title,
-      withBase(url),
+      url: withBase(url)
       date: (frontmatter.date as Date).toISOString().slice(0, 10)
     }))
     .sort((a, b) => b.date.localeCompare(a.date))
