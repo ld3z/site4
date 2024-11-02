@@ -8,6 +8,7 @@ import FloatingVue from "floating-vue";
 import "floating-vue/dist/style.css";
 import Tooltip from "./components/Tooltip.vue";
 import NotFoundComponent from "./components/notfound.vue";
+import Post from './PostLayout.vue'
 import './style.css'
 import 'virtual:uno.css'
 
@@ -33,5 +34,6 @@ export default {
     enhanceAppWithTabs(app);
     createMediumZoomProvider(app, router);
     app.component("Tooltip", Tooltip);
+    app.component('Post', Post);
   }
 } satisfies Theme
