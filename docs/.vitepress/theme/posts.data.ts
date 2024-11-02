@@ -1,5 +1,6 @@
 import type { ContentData } from 'vitepress'
 import { createContentLoader } from 'vitepress'
+import { withBase } from 'vitepress'
 import { groupBy } from '../utils'
 
 interface Post {
