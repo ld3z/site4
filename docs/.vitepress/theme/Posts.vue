@@ -17,7 +17,7 @@ const formatDate = (raw: string): string => {
       <p>PLEASE HELP I'M GOING INSANE!!!</p>
 
       I also have a
-      <a href="site4/feed.rss" target="_blank" title="RSS feed">
+      <a href="feed.rss" target="_blank" title="RSS feed">
         <div class="i-carbon-rss vertical-top" />
         RSS feed.
       </a>
