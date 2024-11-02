@@ -45,9 +45,15 @@ export default defineConfig({
       {
         text: 'Resources',
         items: [
+          { text: 'Posts', link: '/posts' },
           { text: 'Cuphead', link: '/cuphead' },
           { text: 'Satisfactory', link: '/satisfactory' },
-          { text: 'Subnautica', link: '/subnautica' },
+          { text: 'Subnautica', link: '/subnautica' }
+        ],
+      },
+      {
+        text: 'Roblox Games',
+        items: [
           { text: 'Pig 64', link: '/pig64' },
           { text: 'Piggy: Book 1', link: '/piggy-book1' },
           { text: 'Piggy: Book 2', link: '/piggy-book2' },
