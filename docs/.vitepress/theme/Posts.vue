@@ -1,6 +1,8 @@
 <script setup lang="ts">
 import { data as posts } from './posts.data'
-import { withBase } from 'vitepress'
+import { withBase, useData } from 'vitepress'
+
+const { theme } = useData()
 
 const formatDate = (raw: string): string => {
   const date = new Date(raw)
