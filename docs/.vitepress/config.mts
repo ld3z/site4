@@ -43,9 +43,14 @@ export default defineConfig({
 
     sidebar: [
       {
+        text: 'Posts',
+        items: [
+          { text: 'Posts', link: '/posts' }
+        ]
+      },
+      {
         text: 'Resources',
         items: [
-          { text: 'Posts', link: '/posts' },
           { text: 'Cuphead', link: '/cuphead' },
           { text: 'Satisfactory', link: '/satisfactory' },
           { text: 'Subnautica', link: '/subnautica' }
