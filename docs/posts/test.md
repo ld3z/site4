@@ -9,4 +9,6 @@ prev: false
 footer: true
 ---
 
+<Post authors="ld3z"/>
+
 # include markdown here
