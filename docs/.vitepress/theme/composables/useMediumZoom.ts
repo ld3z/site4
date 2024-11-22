@@ -26,6 +26,6 @@ export function createMediumZoomProvider(app: App, router: Router) {
   app.provide(mediumZoomSymbol, zoom);
   watch(
     () => router.route.path,
-    () => nextTick(() => zoom.refresh()),
+    () => nextTick(() => zoom.refresh())
   );
 }

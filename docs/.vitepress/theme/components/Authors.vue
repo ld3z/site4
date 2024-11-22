@@ -1,25 +1,25 @@
 <script setup lang="ts">
-import { computed } from 'vue'
+import { computed } from "vue";
 
 const props = defineProps<{
-  authors: string[]
-}>()
+  authors: string[];
+}>();
 
 interface Author {
-  name: string
-  github: string
+  name: string;
+  github: string;
 }
 
 const data = [
   {
-    name: 'ld3z',
-    github: 'https://github.com/ld3z'
-  }
-] satisfies Author[]
+    name: "ld3z",
+    github: "https://github.com/ld3z",
+  },
+] satisfies Author[];
 
 const authors = computed(() =>
   data.filter((author) => props.authors.includes(author.name))
-)
+);
 </script>
 
 <template>
