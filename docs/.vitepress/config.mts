@@ -51,7 +51,7 @@ export default defineConfig({
         items: [
           { text: "Cuphead", link: "/cuphead" },
           { text: "Satisfactory", link: "/satisfactory" },
-          { text: "Subnautica", link: "/subnautica" },
+          { text: '<span class="i-mdi:safety-goggles"></span> Subnautica', link: "/subnautica" },
         ],
       },
       {
