@@ -1,6 +1,10 @@
 import { defineConfig, presetUno, presetAttributify, presetIcons } from "unocss";
 
 export default defineConfig({
+  content: {
+    filesystem: [".vitepress/config.mts"],
+  },
+
   presets: [
     presetUno(),
     presetAttributify(),
