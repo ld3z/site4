@@ -8,6 +8,8 @@ import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import { fileURLToPath, URL } from "url";
 import { emojiRender, defs, movePlugin } from "./configs/";
 
+// @unocss-include
+
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Site4",
@@ -39,8 +41,6 @@ export default defineConfig({
       },
     ],
 
-    // @unocss-include
-
     sidebar: [
       {
         text: "Posts",
@@ -61,7 +61,10 @@ export default defineConfig({
           { text: "Pig 64", link: "/pig64" },
           { text: "Piggy: Book 1", link: "/piggy-book1" },
           { text: "Piggy: Book 2", link: "/piggy-book2" },
-          { text: '<span class="i-simple-icons:roblox"></span> Phantom Forces', link: "/phantom-forces" },
+          {
+            text: '<span class="i-simple-icons:roblox"></span> Phantom Forces',
+            link: "/phantom-forces",
+          },
           { text: "Tower Defense Simulator", link: "/tds" },
           { text: "Doors", link: "/doors" },
         ],
