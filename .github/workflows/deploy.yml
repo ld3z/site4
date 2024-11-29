@@ -1,26 +1,9 @@
-name: Compress and Deploy VitePress Site
+name: Deploy VitePress site to Pages
 
 on:
-  # Triggers for compressing images
-  pull_request:
-    paths:
-      - "**/*.jpg"
-      - "**/*.jpeg"
-      - "**/*.png"
-      - "**/*.webp"
   push:
-    branches:
-      - main
-    paths:
-      - "**/*.jpg"
-      - "**/*.jpeg"
-      - "**/*.png"
-      - "**/*.webp"
-  # Triggers for building and deploying the VitePress site
+    branches: [main]
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: read
@@ -32,67 +15,55 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  # Image Compression Job
+  # Image compression job
   compress-images:
     name: Compress Images
     runs-on: ubuntu-latest
-    if: |
-      github.repository == 'example/example_repo' &&
-      (github.event_name != 'pull_request' ||
-       github.event.pull_request.head.repo.full_name == github.repository)
     steps:
-      - name: Checkout Branch
-        uses: actions/checkout@v3
+      - name: Checkout Code
+        uses: actions/checkout@v4
       - name: Compress Images
-        id: calibre
+        id: compress
         uses: calibreapp/image-actions@main
         with:
           githubToken: ${{ secrets.GITHUB_TOKEN }}
-          compressOnly: ${{ github.event_name != 'pull_request' }}
-      - name: Create Pull Request
-        if: |
-          github.event_name != 'pull_request' &&
-          steps.calibre.outputs.markdown != ''
-        uses: peter-evans/create-pull-request@v4
-        with:
-          title: Auto Compress Images
-          branch-suffix: timestamp
-          commit-message: Compress Images
-          body: ${{ steps.calibre.outputs.markdown }}
+      - name: Commit Changes
+        if: steps.compress.outputs.markdown != ''
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Compress images before deployment"
+          git push
 
-  # Build VitePress Site
+  # Build job
   build:
     runs-on: ubuntu-latest
-    needs: [compress-images]
+    needs: compress-images
     steps:
-      - name: Checkout
+      - name: Checkout Code
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0 # Not needed if lastUpdated is not enabled
-      - name: Setup Node
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: npm
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm ci
-      - name: Build with VitePress
+      - name: Build VitePress Site
         run: npm run docs:build
-      - name: Upload artifact
+      - name: Upload Artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: docs/.vitepress/dist
 
-  # Deploy VitePress Site
+  # Deployment job
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: [build]
+    needs: build
     runs-on: ubuntu-latest
-    name: Deploy
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
