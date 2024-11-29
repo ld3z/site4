@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Latest Page
-      link: /subnautica
+      link: /stardew
     - theme: alt
       text: Oldest Page
       link: /cuphead
