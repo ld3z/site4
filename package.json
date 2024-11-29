@@ -15,6 +15,7 @@
   "type": "module",
   "devDependencies": {
     "@iconify-json/carbon": "^1.2.4",
+    "@iconify-json/catppuccin": "^1.2.6",
     "@iconify-json/gg": "^1.2.1",
     "@iconify-json/ic": "^1.2.1",
     "@iconify-json/logos": "^1.2.3",

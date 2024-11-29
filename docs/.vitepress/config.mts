@@ -62,7 +62,7 @@ export default defineConfig({
           { text: "Piggy: Book 1", link: "/piggy-book1" },
           { text: "Piggy: Book 2", link: "/piggy-book2" },
           {
-            text: '<span class="i-simple-icons:roblox"></span> Phantom Forces',
+            text: '<span class="i-catppuccin:roblox"></span> Phantom Forces',
             link: "/phantom-forces",
           },
           { text: "Tower Defense Simulator", link: "/tds" },
