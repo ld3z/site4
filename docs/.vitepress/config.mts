@@ -43,11 +43,11 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "Posts",
+        text: '<span class="i-twemoji:newspaper"></span> Posts',
         items: [{ text: "Posts", link: "/posts" }],
       },
       {
-        text: "Resources",
+        text: '<span class="i-twemoji:clipboard"></span> Resources',
         items: [
           { text: "Cuphead", link: "/cuphead" },
           { text: "Satisfactory", link: "/satisfactory" },
@@ -56,15 +56,12 @@ export default defineConfig({
         ],
       },
       {
-        text: "Roblox Games",
+        text: '<span class="i-catppuccin:roblox"></span> Roblox Games',
         items: [
           { text: "Pig 64", link: "/pig64" },
           { text: "Piggy: Book 1", link: "/piggy-book1" },
           { text: "Piggy: Book 2", link: "/piggy-book2" },
-          {
-            text: '<span class="i-catppuccin:roblox"></span> Phantom Forces',
-            link: "/phantom-forces",
-          },
+          { text: "Phantom Forces", link: "/phantom-forces" },
           { text: "Tower Defense Simulator", link: "/tds" },
           { text: "Doors", link: "/doors" },
         ],
