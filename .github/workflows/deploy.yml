@@ -18,7 +18,8 @@ on:
       - "**.webp"
   # Triggers for building and deploying the VitePress site
   push:
-    branches: [main]
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
