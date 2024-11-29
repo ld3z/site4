@@ -7,9 +7,6 @@ import { imgSize } from "@mdit/plugin-img-size";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import { fileURLToPath, URL } from "url";
 import { emojiRender, defs, movePlugin } from "./configs/";
-import { generateFeed, generateMeta } from "./hooks";
-import consola from "consola";
-import { meta } from "./constants";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
@@ -27,6 +24,7 @@ export default defineConfig({
       { text: "Home", link: "/" },
       { text: "Cuphead", link: "/cuphead" },
       { text: "Satisfactory", link: "/satisfactory" },
+      { text: "Stardew Valley", link: "/stardew" },
       { text: "Subnautica", link: "/subnautica" },
       {
         text: "Roblox Games",
@@ -51,6 +49,7 @@ export default defineConfig({
         items: [
           { text: "Cuphead", link: "/cuphead" },
           { text: "Satisfactory", link: "/satisfactory" },
+          { text: "Stardew Valley", link: "/stardew" },
           { text: "Subnautica", link: "/subnautica" },
         ],
       },

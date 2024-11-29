@@ -8,6 +8,7 @@ description: Resource Page for Doors!
 You'll find below a list of resources for the Roblox game Doors!
 
 ## Resources: :clipboard:
+
 - Doors Wiki :glowing-star: <Badge type="tip" icon="i-simple-icons-fandom" text="Link" link="https://doors-game.fandom.com/wiki/DOORS_Wiki" /> / [:mdi-twitter:](https://twitter.com/DoorsWiki) / [:ic-outline-discord:](https://discord.gg/SpKAgJDuVn) <tooltip><li>Updated frequently</li><li>Go to for any Doors knowledge</li></tooltip>
 - Doors Idea Wiki <Badge type="tip" icon="i-simple-icons-fandom" text="Link" link="https://doors-ideas.fandom.com/wiki/DOORS_Ideas_Wiki" />
 - LSPLASH Group <Badge type="tip" icon="i-simple-icons-roblox" text="Group" link="https://www.roblox.com/groups/3049798/LSPLASH#!" />
@@ -15,6 +16,7 @@ You'll find below a list of resources for the Roblox game Doors!
 - [Doors Official OST](https://open.spotify.com/artist/03R6r9e5DPFzPQ0UJojAIn/discography/single) :mdi-spotify:
 
 ## Youtube Channels: :mdi-youtube:
+
 - [Thinknoodles](https://www.youtube.com/playlist?list=PL2Vioa5ExuerIQmZNwWzpwodbyYLWd339)
 - [KreekCraft](https://www.youtube.com/@KreekCraft)
 - [GTLive](https://www.youtube.com/playlist?list=PL5P5eGJK4qOcKWwiIPRPO3nFLjHPrKoPl)
