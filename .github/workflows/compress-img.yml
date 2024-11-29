@@ -1,10 +1,13 @@
 name: Optimize images
-on: pull_request
-paths:
-  - "**.jpg"
-  - "**.jpeg"
-  - "**.png"
-  - "**.webp"
+
+on:
+  pull_request:
+    paths:
+      - "**.jpg"
+      - "**.jpeg"
+      - "**.png"
+      - "**.webp"
+  workflow_dispatch:
 
 jobs:
   build:
