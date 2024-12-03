@@ -1,4 +1,4 @@
-import { defineConfig, Plugin } from "vitepress";
+import { defineConfig } from "vitepress";
 import UnoCSS from "unocss/vite";
 import { figure } from "@mdit/plugin-figure";
 import { imgLazyload } from "@mdit/plugin-img-lazyload";
@@ -97,10 +97,10 @@ export default defineConfig({
   },
   vite: {
     plugins: [
-      ThumbnailHashImages() as Plugin,
+      ThumbnailHashImages(),
       UnoCSS({
         configFile: "../unocss.config.ts",
-      }) as unknown as Plugin,
+      }),
       {
         name: "custom:adjust-order",
         configResolved(c) {
