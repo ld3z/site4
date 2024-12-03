@@ -31,6 +31,8 @@
     "@mdit/plugin-figure": "^0.14.0",
     "@mdit/plugin-img-lazyload": "^0.14.0",
     "@mdit/plugin-img-size": "^0.14.0",
+    "@nolebase/markdown-it-unlazy-img": "^2.11.1",
+    "@nolebase/vitepress-plugin-thumbnail-hash": "^2.11.1",
     "@types/node": "^22.10.1",
     "@unocss/vite": "^0.65.0",
     "@vitejs/plugin-vue": "^5.2.1",

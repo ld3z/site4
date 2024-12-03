@@ -9,6 +9,8 @@ import "floating-vue/dist/style.css";
 import Post from "./PostLayout.vue";
 import Tooltip from "./components/Tooltip.vue";
 import NotFoundComponent from "./components/notfound.vue";
+import { NolebaseUnlazyImg } from "@nolebase/vitepress-plugin-thumbnail-hash/client";
+import "@nolebase/vitepress-plugin-thumbnail-hash/client/style.css";
 import "./style.css";
 import "virtual:uno.css";
 
@@ -35,5 +37,6 @@ export default {
     createMediumZoomProvider(app, router);
     app.component("Tooltip", Tooltip);
     app.component("Post", Post);
+    app.component("NolebaseUnlazyImg", NolebaseUnlazyImg);
   },
 } satisfies Theme;

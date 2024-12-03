@@ -5,6 +5,8 @@ import { imgLazyload } from "@mdit/plugin-img-lazyload";
 import { align } from "@mdit/plugin-align";
 import { imgSize } from "@mdit/plugin-img-size";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
+import { ThumbnailHashImages } from "@nolebase/vitepress-plugin-thumbnail-hash/vite";
+import { UnlazyImages } from "@nolebase/markdown-it-unlazy-img";
 import { fileURLToPath, URL } from "url";
 import { emojiRender, defs, movePlugin } from "./configs/";
 
@@ -83,15 +85,19 @@ export default defineConfig({
     emoji: { defs },
     config(md) {
       md.use(emojiRender);
-      md.use(imgLazyload);
+      // md.use(imgLazyload);
       md.use(align);
       md.use(figure);
       md.use(tabsMarkdownPlugin);
       md.use(imgSize);
+      md.use(UnlazyImages, {
+        imgElementTag: "NolebaseUnlazyImg",
+      });
     },
   },
   vite: {
     plugins: [
+      ThumbnailHashImages(),
       UnoCSS({
         configFile: "../unocss.config.ts",
       }),
