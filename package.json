@@ -31,12 +31,9 @@
     "@mdit/plugin-figure": "^0.14.0",
     "@mdit/plugin-img-lazyload": "^0.14.0",
     "@mdit/plugin-img-size": "^0.14.0",
-    "@nolebase/markdown-it-unlazy-img": "^2.11.1",
-    "@nolebase/vitepress-plugin-thumbnail-hash": "^2.11.1",
     "@types/node": "^22.10.1",
     "@unocss/vite": "^0.65.0",
     "@vitejs/plugin-vue": "^5.2.1",
-    "consola": "^3.2.3",
     "feed": "^4.2.2",
     "floating-vue": "^5.2.2",
     "medium-zoom": "^1.1.0",
@@ -44,8 +41,5 @@
     "vitepress": "^1.5.0",
     "vitepress-plugin-tabs": "^0.5.0",
     "vue": "^3.5.13"
-  },
-  "dependencies": {
-    "markdown-it": "^14.1.0"
   }
 }
