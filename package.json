@@ -34,6 +34,7 @@
     "@types/node": "^22.10.1",
     "@unocss/vite": "^0.65.0",
     "@vitejs/plugin-vue": "^5.2.1",
+    "consola": "^3.2.3",
     "feed": "^4.2.2",
     "floating-vue": "^5.2.2",
     "medium-zoom": "^1.1.0",
