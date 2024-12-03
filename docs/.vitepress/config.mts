@@ -5,6 +5,7 @@ import { imgLazyload } from "@mdit/plugin-img-lazyload";
 import { align } from "@mdit/plugin-align";
 import { imgSize } from "@mdit/plugin-img-size";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
+import vue from '@vitejs/plugin-vue';
 import { ThumbnailHashImages } from "@nolebase/vitepress-plugin-thumbnail-hash/vite";
 import { UnlazyImages } from "@nolebase/markdown-it-unlazy-img";
 import { fileURLToPath, URL } from "url";
@@ -97,6 +98,7 @@ export default defineConfig({
   },
   vite: {
     plugins: [
+      vue(),
       ThumbnailHashImages(),
       UnoCSS({
         configFile: "../unocss.config.ts",
