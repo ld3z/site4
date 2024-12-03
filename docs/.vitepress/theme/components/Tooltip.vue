@@ -6,7 +6,7 @@ withDefaults(
   }>(),
   {
     title: "Info",
-    icon: "i-lucide-info",
+    icon: "i-ri-information-2-line",
   },
 );
 </script>

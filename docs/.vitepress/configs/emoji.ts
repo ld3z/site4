@@ -11,6 +11,10 @@ import { icons as mdi } from "@iconify-json/mdi";
 import { icons as materials } from "@iconify-json/material-symbols";
 import { icons as simple } from "@iconify-json/simple-icons";
 import { icons as gg } from "@iconify-json/gg";
+import { icons as catppuchin } from "@iconify-json/catppuccin";
+import { icons as carbon } from "@iconify-json/carbon";
+import { icons as ri } from "@iconify-json/ri";
+import { icons as lucide } from "@iconify-json/lucide";
 
 // 1. Install emoji pack with `pnpm add -g @iconify-json/<icon>`
 // 2. Import them like I did above
@@ -27,6 +31,10 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
   { pack: materials, prefix: "material-symbols-" },
   { pack: simple, prefix: "simple-icons-" },
   { pack: gg, prefix: "gg-" },
+  { pack: catppuchin, prefix: "cat-" },
+  { pack: carbon, prefix: "carbon-" },
+  { pack: ri, prefix: "ri-" },
+  { pack: lucide, prefix: "lucide-" },
 ];
 
 const defs: Record<string, string> = {};
