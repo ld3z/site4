@@ -1,5 +1,4 @@
 import { defineConfig } from "vitepress";
-import { PluginOption } from 'vite';
 import UnoCSS from "unocss/vite";
 import { figure } from "@mdit/plugin-figure";
 import { imgLazyload } from "@mdit/plugin-img-lazyload";
@@ -97,21 +96,10 @@ export default defineConfig({
     },
   },
   vite: {
-    optimizeDeps: {
-      exclude: [
-        '@nolebase/markdown-it-unlazy-img/client',
-        '@nolebase/vitepress-plugin-thumbnail-hash/vite/client'
-      ]
-    },
-    ssr: {
-      noExternal: [
-        '@nolebase/markdown-it-unlazy-img',
-        '@nolebase/vitepress-plugin-thumbnail-hash/vite',
-        '@nolebase/*'
-      ]
-    },
     plugins: [
+      // @ts-expect-error
       ThumbnailHashImages(),
+      // @ts-expect-error
       UnoCSS({
         configFile: "../unocss.config.ts",
       }),
