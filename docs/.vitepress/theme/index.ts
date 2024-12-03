@@ -6,7 +6,7 @@ import { createMediumZoomProvider } from "./composables";
 import { enhanceAppWithTabs } from "vitepress-plugin-tabs/client";
 import FloatingVue from "floating-vue";
 import "floating-vue/dist/style.css";
-import Post from "./PostLayout.vue";
+// import Post from "./PostLayout.vue";
 import Tooltip from "./components/Tooltip.vue";
 import NotFoundComponent from "./components/notfound.vue";
 import { NolebaseUnlazyImg } from "@nolebase/vitepress-plugin-thumbnail-hash/client";
@@ -36,7 +36,7 @@ export default {
     enhanceAppWithTabs(app);
     createMediumZoomProvider(app, router);
     app.component("Tooltip", Tooltip);
-    app.component("Post", Post);
+    // app.component("Post", Post);
     app.component("NolebaseUnlazyImg", NolebaseUnlazyImg);
   },
 } satisfies Theme;

@@ -1,7 +1,7 @@
 {
     "compilerOptions": {
       "verbatimModuleSyntax": true,
-      "baseUrl": ".",
+      "baseUrl": "/site4/",
       "module": "esnext",
       "target": "esnext",
       "lib": ["DOM", "ESNext"],
