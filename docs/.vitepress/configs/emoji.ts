@@ -40,6 +40,16 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
 const aliases: Record<string, string> = {
   gstar: "twemoji-glowing-star",
   git: "mdi-github",
+  yt: "mdi-youtube",
+  clip: "twemoji-clipboard",
+  spotify: "mdi-spotify",
+  x: "mdi-twitter",
+  discord: "ic-outline-discord",
+  red: "mdi-reddit",
+  wikigg: "simple-icons-wikidotgg",
+  nexus: 'simple-icons-nexusmods',
+  wiki: 'simple-icons-fandom',
+  wrench: "mdi-wrench-outline"
 };
 
 const defs: Record<string, string> = {};
