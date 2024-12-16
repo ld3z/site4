@@ -6,7 +6,7 @@ import { align } from "@mdit/plugin-align";
 import { imgSize } from "@mdit/plugin-img-size";
 import { tabsMarkdownPlugin } from "vitepress-plugin-tabs";
 import { fileURLToPath, URL } from "url";
-import { emojiRender, defs, movePlugin } from "./configs/";
+import { emojiRender, defs, movePlugin, aliases } from "./configs/";
 
 // @unocss-include
 
@@ -80,7 +80,7 @@ export default defineConfig({
   },
 
   markdown: {
-    emoji: { defs },
+    emoji: { defs, shortcuts: aliases },
     config(md) {
       md.use(emojiRender);
       md.use(imgLazyload);
