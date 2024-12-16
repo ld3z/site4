@@ -38,7 +38,7 @@ const emojis: { pack: IconifyJSON; prefix?: string }[] = [
 ];
 
 const aliases: Record<string, string> = {
-  gstar: "glowing-star",
+  gstar: "twemoji-glowing-star",
   git: "mdi-github",
 };
 
