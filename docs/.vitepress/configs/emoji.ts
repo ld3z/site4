@@ -47,9 +47,9 @@ const aliases: Record<string, string> = {
   discord: "ic-outline-discord",
   red: "mdi-reddit",
   wikigg: "simple-icons-wikidotgg",
-  nexus: 'simple-icons-nexusmods',
-  wiki: 'simple-icons-fandom',
-  wrench: "mdi-wrench-outline"
+  nexus: "simple-icons-nexusmods",
+  wiki: "simple-icons-fandom",
+  wrench: "mdi-wrench-outline",
 };
 
 const defs: Record<string, string> = {};
