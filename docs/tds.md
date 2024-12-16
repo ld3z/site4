@@ -19,7 +19,7 @@ I will not be including [Challenge Maps](https://tds.fandom.com/wiki/Challenge_M
 
 ### Hardcore:
 
-- [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :glowing-star: <tooltip><li>Most commonly used strategy to triumph hardcore mode</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li><li>Works with latest DJ rework</li></tooltip>
+- [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :gstar: <tooltip><li>Most commonly used strategy to triumph hardcore mode</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li><li>Works with latest DJ rework</li></tooltip>
 - [Trio Miners](https://docs.google.com/document/d/1R6d03hWLqdHd18U-vwPdw3GwdB1toH2YwzwrL9yhsW0/edit) <tooltip><li>Used to grind for hardcore gems really fast (600+ /hr)</li><li>Requires 3 people</li><li>Translated to Russian</li></tooltip>
 - [Devastated Battlefield](https://docs.google.com/document/d/1MFIolXwGG6zATVOMYWvMAuL_tteOrPQXslWPRWvVTi0/edit?tab=t.0) <tooltip><li>Duo hardcore strategy</li><li>No special towers (NST)</li></tooltip>
 
