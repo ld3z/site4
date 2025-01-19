@@ -9,8 +9,8 @@ You'll find below a list of essential items if you want to play Phantom Forces!
 
 ![](/phantombanner.png)
 
-:::caution
-whwhwhw
+:::warning
+This quest is not possible on console/with a controller due to several things like keypads, pipe puzzles and crafting not being picked up as buttons on a controller. So, it is suggested that players doing this should use a mobile device or PC if possible.
 :::
 
 ## Resources: :clipboard:
