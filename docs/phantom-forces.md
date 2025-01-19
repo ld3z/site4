@@ -10,8 +10,7 @@ You'll find below a list of essential items if you want to play Phantom Forces!
 ![](/phantombanner.png)
 
 :::caution
-PF has had drama surrounding it, which ultimately led to most of- if not all of the Phantom Forces content creators to leave the game. This also included Spezi, a well known
-person in the PF community. Which is why the sheet is no longer starred.
+PF has had drama surrounding it, which ultimately led to most of- if not all of the Phantom Forces content creators to leave the game. This also included Spezi, a well known person in the PF community. Which is why the sheet is no longer starred.
 :::
 
 ## Resources: :clipboard:
