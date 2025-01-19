@@ -9,7 +9,7 @@ You'll find below a list of essential items if you want to play Phantom Forces!
 
 ![](/phantombanner.png)
 
-:::caution In light of recent events
+:::caution
 PF has had drama surrounding it, which ultimately led to most of- if not all of the Phantom Forces content creators to leave the game. This also included Spezi, a well known
 person in the PF community. Which is why the sheet is no longer starred.
 :::
@@ -17,7 +17,7 @@ person in the PF community. Which is why the sheet is no longer starred.
 ## Resources: :clipboard:
 
 - [Spezi's Attachment Sheet](https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/edit?gid=1214029714#gid=1214029714) <tooltip><li>No longer updated</li><li>Is sort of based off of personal preference, so YMMV</li><li>Generally really good loadouts/attachment setups</li></tooltip>
-- [Hypothunk's Range Calculator](https://www.desmos.com/calculator/g0qlwubve7) :gstar: <tooltip><li>Useful for knowing how much damage a weapon will do</li><li>Directions to use are found in the calc itself</li><li>Play around with the settings!</li></tooltip>
+- [Hypothunk's Range Calculator](https://www.desmos.com/calculator/g0qlwubve7) <tooltip><li>Useful for knowing how much damage a weapon will do</li><li>Directions to use are found in the calc itself</li><li>Play around with the settings!</li></tooltip>
 - [Extension Cable's Grip Effects](https://docs.google.com/document/d/1c8S25U19h2UOVM2FBt_wfJt-q-yU0k5gu6baL9dzMCw/edit) <tooltip><li>Is a bit outdated</li><li>Gives the player a sense of what each grip does to recoil</li><li>Spezi’s sheet has a better page for grip effects found [here](https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/edit?gid=1381239146#gid=1381239146)</li></tooltip>
 - [PF Advanced Stats](https://docs.google.com/spreadsheets/d/1nZZOpxAxpieMyC0e0VepfzpmIP89XHIDJPtsohw8U9g/edit?usp=drivesdk)
 - [Time_4trouble's Melee Sheet](https://docs.google.com/spreadsheets/d/1okT7tsmwJzlprtZmOI1KY4cbIlkoDZAttyLPS_z1_F0/edit?gid=1174543838#gid=1174543838)
