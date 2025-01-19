@@ -9,8 +9,8 @@ You'll find below a list of essential items if you want to play Phantom Forces!
 
 ![](/phantombanner.png)
 
-:::warning
-This quest is not possible on console/with a controller due to several things like keypads, pipe puzzles and crafting not being picked up as buttons on a controller. So, it is suggested that players doing this should use a mobile device or PC if possible.
+:::warning In light of recent events:
+PF has had drama surrounding it, which ultimately led to most of- if not all of the Phantom Forces content creators to leave the game. This also included Spezi, a well known person in the PF community. Which is why the sheet is no longer starred.
 :::
 
 ## Resources: :clipboard:
