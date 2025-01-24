@@ -7,6 +7,8 @@ description: Resource Page for Subnautica!
 
 You'll find below a list of essential items that may help you play Satisfactory!
 
+![](/subnauticabanner.png)
+
 ## Resources: :clipboard:
 
 - [Unknown Worlds](https://unknownworlds.com) - / [:x:](https://x.com/Subnautica) / [:yt:](https://www.youtube.com/user/subnautica) / [:red:](https://www.reddit.com/r/subnautica)

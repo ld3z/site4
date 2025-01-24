@@ -7,6 +7,8 @@ description: Resource Page for Doors!
 
 You'll find below a list of resources for the Roblox game Doors!
 
+![](/doorsbanner.png)
+
 ## Resources: :clipboard:
 
 - Doors Wiki :gstar: <Badge type="tip" icon="i-simple-icons-fandom" text="Link" link="https://doors-game.fandom.com/wiki/DOORS_Wiki" /> / [:x:](https://twitter.com/DoorsWiki) / [:discord:](https://discord.gg/SpKAgJDuVn) <tooltip><li>Updated frequently</li><li>Go to for any Doors knowledge</li></tooltip>

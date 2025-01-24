@@ -7,6 +7,8 @@ description: Resource Page for Stardew Valley
 
 You'll find below a list of essential items that may help you play Stardew Valley!
 
+![](/stardewbanner.png)
+
 ## Resources: :clipboard:
 
 - [Stardew Valley Wiki](https://stardewvalleywiki.com/Stardew_Valley_Wiki) :gstar: <tooltip><li>Updated frequently</li><li>Go to for any Stardew knowledge</li></tooltip>
