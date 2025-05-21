@@ -36,7 +36,7 @@ The dice should light up green in the correct room. If the dice is not green, yo
 
 6. Give the Mrs. P photo to Mr.P. He will start crying and will flood the city.
 
-## Deep Depths ![=32x32](/deepDepth.webp)
+## Deep Depths ![Alt =32x32](/deepDepth.webp)
 
 1. Activate the five valves across the flooded Subway, there are three in the city and two in the subway. They can be found next to the white grates.
    - *The Flippers* item from the shop can be bought to speed this part up.
@@ -55,13 +55,13 @@ A song's capital letter indicates what direction the claw will move. For example
 
 6. Go back to Subway map and give the potato to Mr. P. This will drain all of the water from the map and leave behind his hat, which can be picked up and worn by the player once equipped.
 
-## Operation: Employee ![=32x32](/employee.webp)
+## Operation: Employee ![Alt =32x32](/employee.webp)
 
 1. Buy the *Suitcase*. Hold it after equipping Mr. P's hat to access the tall building in the lobby.
 
 2. Input the code `362761` when prompted. This allows for entry into the building and then into the glitch world.
 
-## Flip Side ![=32x32](/flipside.webp)
+## Flip Side ![Alt =32x32](/flipside.webp)
 
 1. Collect the items and complete the pipe puzzles scattered in each accessible area in the glitch world.
 
@@ -69,7 +69,7 @@ A song's capital letter indicates what direction the claw will move. For example
 
 3. Craft all the ingots you can which are used to get different items from [AJ Alpaca](https://piggy.fandom.com/wiki/AJ_Alpaca).
 
-## : eRrOr : ![=32x32](/error.webp)
+## : eRrOr : ![Alt =32x32](/error.webp)
 
 1. Leave and rejoin the game to access the normal world.
 
