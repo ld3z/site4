@@ -18,7 +18,7 @@ This quest is not possible on console/with a controller due to several things li
 
 ![](/pig64banner.png)
 
-## Potato Pout ![=32x32](/potpout.webp)
+## Potato Pout ![Alt =32x32](/potpout.webp)
 
 1. Use the *Glitch Key* given automatically by the Keymaster badge to open the glitched door in Subway. Interact with the crying Mr. P in the corner of the room. After talking to him, you'll want to head to the Arcade map.
 
