@@ -19,33 +19,33 @@ I will not be including [Challenge Maps](https://tds.fandom.com/wiki/Challenge_M
 
 ### Hardcore:
 
-- [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :gstar: <tooltip><li>Most commonly used strategy to triumph hardcore mode</li><li>100% Win rate</li><li>Recommended for people who want to grind hardcore gems</li><li>Works with latest DJ rework</li></tooltip>
-- [Trio Miners](https://docs.google.com/document/d/1R6d03hWLqdHd18U-vwPdw3GwdB1toH2YwzwrL9yhsW0/edit) <tooltip><li>Used to grind for hardcore gems really fast (600+ /hr)</li><li>Requires 3 people</li><li>Translated to Russian</li></tooltip>
-- [Devastated Battlefield](https://docs.google.com/document/d/1MFIolXwGG6zATVOMYWvMAuL_tteOrPQXslWPRWvVTi0/edit?tab=t.0) <tooltip><li>Duo hardcore strategy</li><li>No special towers (NST)</li></tooltip>
+- [Lucille Hardcore Strategy](https://docs.google.com/document/d/1NOE7FtL-l8T23LbuK-XHYb3YwFhv_EkL6FnHPrcSih4/edit#heading=h.5j8k7csi2use) :gstar: <Tooltip tooltipKey="lucille-strat" />
+- [Trio Miners](https://docs.google.com/document/d/1R6d03hWLqdHd18U-vwPdw3GwdB1toH2YwzwrL9yhsW0/edit) <Tooltip tooltipKey="trio-miners" />
+- [Devastated Battlefield](https://docs.google.com/document/d/1MFIolXwGG6zATVOMYWvMAuL_tteOrPQXslWPRWvVTi0/edit?tab=t.0) <Tooltip tooltipKey="devastated-battlefield" />
 
 ### Pizza Party:
 
-- [Violent Souls](https://docs.google.com/document/d/1JrEKFaLYorokU8F15PSvyfs585PYeOly6HqgLt-m9Ss/edit) :gstar: <tooltip><li>Strategy to beat [Lost Souls](https://www.rolimons.com/gamebadge/2129234540) on the Pizza Party map</li><li>100% Win rate</li><li>Need 4 people</li></tooltip>
-- [Beginner Bashing](https://docs.google.com/document/d/1qn07Fo3uYTQsORwCyKBgNuJxZlfNl7pNMkV1hwemwBU/edit?usp=sharing) <tooltip><li>Solo coin grind on Pizza Party</li><li>4600+ coins per hour</li><li>2350 + exp per hour</li><li>Requires only 2 towers</li></tooltip>
-- [Pizza Munchers](https://docs.google.com/document/d/1zbY38sGIB3PkScfQSu8amxD66eAYYdPCNeQ_onDTZfE/edit) & [Pizza Shredders](https://docs.google.com/document/d/1rEtZH4eoWNLu_YEMI9NAkNn5Q-A533qsXjuo7niYpao/edit) <tooltip><li>Duo Pizza Party strategy for the Fallen Warden Mission</li><li>Pizza Shredders can be used to coin grind around 4000+ coins per hour</li><li>Use Pizza Shredder strat for safer triumph</li></tooltip>
+- [Violent Souls](https://docs.google.com/document/d/1JrEKFaLYorokU8F15PSvyfs585PYeOly6HqgLt-m9Ss/edit) :gstar: <Tooltip tooltipKey="violent-souls" />
+- [Beginner Bashing](https://docs.google.com/document/d/1qn07Fo3uYTQsORwCyKBgNuJxZlfNl7pNMkV1hwemwBU/edit?usp=sharing) <Tooltip tooltipKey="beginner-bashing" />
+- [Pizza Munchers](https://docs.google.com/document/d/1zbY38sGIB3PkScfQSu8amxD66eAYYdPCNeQ_onDTZfE/edit) & [Pizza Shredders](https://docs.google.com/document/d/1rEtZH4eoWNLu_YEMI9NAkNn5Q-A533qsXjuo7niYpao/edit) <Tooltip tooltipKey="pizza-munch-shred" />
 
 ### Polluted Wasteland 2:
 
-- [Toxic Warfare](https://docs.google.com/document/d/17NFb41DmAbkWobhsQ9FytWy_X-DGF9yoCNQDGfMSlv8/edit#heading=h.xr59spo9o45t) <tooltip><li>Strategy to triumph Polluted Wastelands</li><li>Trio ONLY</li><li>No RNG</li></tooltip>
-- [Radioactive Triplets](https://docs.google.com/document/d/1npCttPNGLoXoH6ytRUYYzv2tJDKXWQHOt5F3Mwck4T0/edit#heading=h.mazn57k20eq) <tooltip><li>NST (No special towers)</li><li>Easy to read</li><li>No micro</li><li>Requires 3 people</li></tooltip>
+- [Toxic Warfare](https://docs.google.com/document/d/17NFb41DmAbkWobhsQ9FytWy_X-DGF9yoCNQDGfMSlv8/edit#heading=h.xr59spo9o45t) <Tooltip tooltipKey="toxic-warfare" />
+- [Radioactive Triplets](https://docs.google.com/document/d/1npCttPNGLoXoH6ytRUYYzv2tJDKXWQHOt5F3Mwck4T0/edit#heading=h.mazn57k20eq) <Tooltip tooltipKey="radioactive-triplets" />
 
 ### Badlands 2:
 
-- [Silly Quickdraw](https://docs.google.com/document/d/1qHP0G-dXLSp7vtBeNs0-AvtGYSIGuLPpufXVmVxNiqU) :gstar: <tooltip><li>Best way to triumph Badlands II and obtain [Quickdraw](https://www.rolimons.com/gamebadge/2128794398)</li><li>Can be used to farm coins (5100+) an hour</li><li>Works with latest DJ rework</li></tooltip>
-- [Gunslinger's Nightmare](https://docs.google.com/document/d/1DPfNhxLbipR9p3FlXWHvAthczX7onUxVNpz-YLUvJuQ/edit#heading=h.ndqo2um0rvd7) :gstar: <tooltip><li>Best way to triumph Badlands II and obtain Quickdraw</li><li>Only requires 3 people and no special towers (NST)</li><li>Works with latest DJ rework</li></tooltip>
+- [Silly Quickdraw](https://docs.google.com/document/d/1qHP0G-dXLSp7vtBeNs0-AvtGYSIGuLPpufXVmVxNiqU) :gstar: <Tooltip tooltipKey="silly-quickdraw" />
+- [Gunslinger's Nightmare](https://docs.google.com/document/d/1DPfNhxLbipR9p3FlXWHvAthczX7onUxVNpz-YLUvJuQ/edit#heading=h.ndqo2um0rvd7) :gstar: <Tooltip tooltipKey="gunslingers-nightmare" />
 
 ## Community:
 
-- [Tower Defense Simulator Wiki](https://tds.fandom.com/wiki/Tower_Defense_Simulator_Wiki) :gstar: :wiki: <tooltip><li>Updated frequently</li><li>Has better changelogs for when game updates</li><li>Go to for any TDS knowledge</li></tooltip>
+- [Tower Defense Simulator Wiki](https://tds.fandom.com/wiki/Tower_Defense_Simulator_Wiki) :gstar: :wiki: <Tooltip tooltipKey="tds-wiki" />
 - Tower Defense Official Connections :gstar: - [:x:](https://x.com/paradoxum_games) / [:discord:](https://discord.gg/tds)
 - TDS Wiki Discord <Badge type="tip" icon="i-ic-outline-discord" text="Invite" link="https://discord.gg/MtcRRjUA7F" />
 - [r/TDS_Roblox](https://www.reddit.com/r/TDS_Roblox/) :mdi-reddit:
-- Paradoxum Games Group :gstar: <Badge type="tip" icon="i-simple-icons-roblox" text="Group" link="https://www.roblox.com/groups/4914494/Paradoxum-Games" /> <tooltip><li>Highly recommended to join because of the extra starter cash that you get in the beginning</li><li>Some strategies require you to be in the group to work</li></tooltip>
+- Paradoxum Games Group :gstar: <Badge type="tip" icon="i-simple-icons-roblox" text="Group" link="https://www.roblox.com/groups/4914494/Paradoxum-Games" /> <Tooltip tooltipKey="paradoxum-group" />
 
 ## Common Terminology:
 

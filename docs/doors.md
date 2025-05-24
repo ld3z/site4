@@ -11,7 +11,7 @@ You'll find below a list of resources for the Roblox game Doors!
 
 ## Resources: :clipboard:
 
-- Doors Wiki :gstar: <Badge type="tip" icon="i-simple-icons-fandom" text="Link" link="https://doors-game.fandom.com/wiki/DOORS_Wiki" /> / [:x:](https://twitter.com/DoorsWiki) / [:discord:](https://discord.gg/SpKAgJDuVn) <tooltip><li>Updated frequently</li><li>Go to for any Doors knowledge</li></tooltip>
+- Doors Wiki :gstar: <Badge type="tip" icon="i-simple-icons-fandom" text="Link" link="https://doors-game.fandom.com/wiki/DOORS_Wiki" /> / [:x:](https://twitter.com/DoorsWiki) / [:discord:](https://discord.gg/SpKAgJDuVn) <Tooltip tooltipKey="doors-wiki" />
 - Doors Idea Wiki <Badge type="tip" icon="i-simple-icons-fandom" text="Link" link="https://doors-ideas.fandom.com/wiki/DOORS_Ideas_Wiki" />
 - LSPLASH Group <Badge type="tip" icon="i-simple-icons-roblox" text="Group" link="https://www.roblox.com/groups/3049798/LSPLASH#!" />
 - Official Doors Connections [:x:](https://x.com/DoorsRoblox) / [:yt:](https://youtube.com/c/LSPLASH) / [:discord:](https://discord.gg/8TWD9V9)
