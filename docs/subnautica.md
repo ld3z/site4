@@ -5,7 +5,7 @@ description: Resource Page for Subnautica!
 
 # **Subnautica**
 
-You'll find below a list of essential items that may help you play Satisfactory!
+You'll find below a list of essential items that may help you play Subnautica!
 
 ![](/subnauticabanner.png)
 
