@@ -1,11 +1,11 @@
 ---
 title: Pig 64 Guide
-description: Guide for Pig 64 Part one!
+description: Guide for Pig 64 pt.1!
 ---
 
 # **Pig 64 Guide** :pig-nose:
 
-This is a page which will instruct someone, on how to obtain all of [Pig 64 Part One's](https://www.roblox.com/games/18109142315/PIG-64) badges.
+This is a page which will instruct someone, on how to obtain all of [Pig 64 pt.1](https://www.roblox.com/games/18109142315/PIG-64) badges.
 **This will not go over how to get the Keymaster's badge from Piggy!** **If you need a guide on how to get the Keymaster badge look here:** <https://www.youtube.com/watch?v=S5C-39FvIzM>
 
 :::info
