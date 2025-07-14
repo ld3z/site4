@@ -28,6 +28,7 @@ export default defineConfig({
       { text: "Satisfactory", link: "/satisfactory" },
       { text: "Stardew Valley", link: "/stardew" },
       { text: "Subnautica", link: "/subnautica" },
+      { text: "Fantasy Life", link: "/fantasy-life" },
       {
         text: "Roblox Games",
         items: [
@@ -53,6 +54,7 @@ export default defineConfig({
           { text: "Satisfactory", link: "/satisfactory" },
           { text: "Stardew Valley", link: "/stardew" },
           { text: "Subnautica", link: "/subnautica" },
+          { text: "Fantasy Life", link: "/fantasy-life" },
         ],
       },
       {
@@ -102,7 +104,7 @@ export default defineConfig({
             c.plugins as any,
             "vitepress",
             "before",
-            "unocss:transformers:pre"
+            "unocss:transformers:pre",
           );
         },
       },
@@ -112,7 +114,7 @@ export default defineConfig({
         {
           find: /^.*\/VPBadge\.vue$/,
           replacement: fileURLToPath(
-            new URL("./theme/components/Badge.vue", import.meta.url)
+            new URL("./theme/components/Badge.vue", import.meta.url),
           ),
         },
       ],

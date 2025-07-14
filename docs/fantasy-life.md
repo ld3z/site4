@@ -13,3 +13,5 @@ You'll find below a list of essential items if you want to play Fantasy Life and
 - [Fantasy Life i Wiki](https://fantasy-life.fandom.com/wiki/Fantasy_Life_i:_The_Girl_Who_Steals_Time) :wiki:
 
 ## Community:
+- [r/fantasylife](https://www.reddit.com/r/fantasylife/) :red:
+- [Discord](https://discord.gg/6yXz525dA3)
