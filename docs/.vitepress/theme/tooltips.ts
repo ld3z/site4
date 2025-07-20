@@ -87,7 +87,7 @@ export const tooltips: Record<string, TooltipEntry> = {
 `
   },
   "spezi-sheet": {
-    content: `- No longer updated
+    content: `- Spezi gave sheet control over to T4T
 - Is sort of based off of personal preference, so YMMV
 - Generally really good loadouts/attachment setups
 `

@@ -15,7 +15,7 @@ PF has had drama surrounding it, which ultimately led to most of- if not all of 
 
 ## Resources: :clipboard:
 
-- [Spezi's Attachment Sheet](https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/edit?gid=1214029714#gid=1214029714) <Tooltip tooltipKey="spezi-sheet" />
+- [T4T's Attachment Sheet](https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/edit?gid=1214029714#gid=1214029714) :gstar: <Tooltip tooltipKey="spezi-sheet" />
 - [Hypothunk's Range Calculator](https://www.desmos.com/calculator/g0qlwubve7) <Tooltip tooltipKey="hypothunk-range-calc" />
 - [Extension Cable's Grip Effects](https://docs.google.com/document/d/1c8S25U19h2UOVM2FBt_wfJt-q-yU0k5gu6baL9dzMCw/edit) <Tooltip tooltipKey="grip-effects" />
 - [PF Advanced Stats](https://docs.google.com/spreadsheets/d/1nZZOpxAxpieMyC0e0VepfzpmIP89XHIDJPtsohw8U9g/edit?usp=drivesdk)
