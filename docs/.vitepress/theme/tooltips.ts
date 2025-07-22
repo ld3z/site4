@@ -101,7 +101,7 @@ export const tooltips: Record<string, TooltipEntry> = {
   "grip-effects": {
     content: `- Is a bit outdated
 - Gives the player a sense of what each grip does to recoil
-- Spezi’s sheet has a better page for grip effects found [here](https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/edit?gid=1381239146#gid=1381239146)
+- T4T’s sheet has a better page for grip effects found [here](https://docs.google.com/spreadsheets/d/1dlWL4NQ0J0wrUJyrlmRMmmG9msarkuZtXOoI5ADLyP4/edit?gid=1381239146#gid=1381239146)
 `
   },
   "pf-wiki": {

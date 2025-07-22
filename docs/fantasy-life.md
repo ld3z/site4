@@ -15,3 +15,9 @@ You'll find below a list of essential items if you want to play Fantasy Life and
 ## Community:
 - [r/fantasylife](https://www.reddit.com/r/fantasylife/) :red:
 - [Discord](https://discord.gg/6yXz525dA3)
+- [Speedrun Leaderboard for Fantasy Life](https://www.speedrun.com/fantasy_life)
+
+## Youtube Channels: :yt:
+
+- [KingGoose](https://www.youtube.com/@KingGoose)
+- [Jester946](https://www.youtube.com/@Jester946)
