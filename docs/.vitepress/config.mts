@@ -95,7 +95,7 @@ export default defineConfig({
   vite: {
     plugins: [
       UnoCSS({
-        configFile: "../unocss.config.ts",
+        configFile: "./unocss.config.ts",
       }),
       {
         name: "custom:adjust-order",
