@@ -323,6 +323,50 @@ html:not(.dark) {
   }
 }
 
+/* Tight horizontal room (small laptops, tablet landscape, odd aspect ratios) */
+@media (min-width: 960px) and (max-width: 1279px) {
+  .VPNavBar .VPNavBarTitle,
+  .VPNavBarTitle {
+    flex: 0 1 auto !important;
+    min-width: 0 !important;
+    max-width: min(200px, 36vw) !important;
+  }
+
+  .VPNavBar .title,
+  .VPNavBarTitle .title {
+    flex-shrink: 1 !important;
+    min-width: 0;
+    overflow: hidden;
+  }
+
+  .VPNavBarTitle .title > span {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-width: 0;
+  }
+
+  .VPNavBarTitle :deep(.logo) {
+    flex-shrink: 0;
+  }
+
+  .VPNavBar .VPNavBarSearch {
+    flex: 1 1 120px;
+    min-width: 100px;
+  }
+
+  .VPNavBar #local-search {
+    min-width: 0;
+    flex: 1 1 auto;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1180px) {
+  .VPNavBar .DocSearch-Button-Placeholder {
+    display: none !important;
+  }
+}
+
 /* --- Sidebar scrollbar refinement --- */
 
 .VPSidebar::-webkit-scrollbar {
@@ -343,17 +387,18 @@ html:not(.dark) {
 }
 
 /**
- * Responsive navigation — align with 960px “desktop” breakpoint
+ * Responsive navigation — hamburger + overlay until wide desktop
  *
  * Default VitePress shows the horizontal menu from 768px and hides the
- * full-screen nav overlay from 768px up. That leaves tablets/narrow windows
- * with many links + search in a single nowrap row (content clips). Below we
- * keep the hamburger + overlay through 959px, and allow the bar to scroll
- * horizontally on tight desktop widths.
+ * full-screen nav overlay from 768px up. We extend that through 1279px so
+ * small laptops (e.g. 1024×600) and narrow windows get the full menu in the
+ * overlay instead of a clipped title/search + inline links row.
+ * Flyout dropdowns: keep overflow visible on the nav row (no overflow on
+ * .content-body). Tighter link spacing when the inline menu is shown (1280px+).
  * -------------------------------------------------------------------------- */
 
-/* Hamburger + full-screen menu below 960px (overrides default 768px) */
-@media (max-width: 959px) {
+/* Hamburger + full-screen menu below 1280px (overrides default 768px) */
+@media (max-width: 1279px) {
   .VPNavBarHamburger {
     display: flex !important;
   }
@@ -363,7 +408,7 @@ html:not(.dark) {
   }
 }
 
-@media (min-width: 960px) {
+@media (min-width: 1280px) {
   .VPNavBarHamburger {
     display: none !important;
   }
@@ -373,21 +418,21 @@ html:not(.dark) {
   }
 }
 
-/* Let the overlay work on tablet widths (768–959); hide it again on desktop */
-@media (min-width: 768px) and (max-width: 959px) {
+/* Overlay works from tablet through small laptop widths; hide on wide desktop */
+@media (min-width: 768px) and (max-width: 1279px) {
   .VPNavScreen {
     display: block !important;
   }
 }
 
-@media (min-width: 960px) {
+@media (min-width: 1280px) {
   .VPNavScreen {
     display: none !important;
   }
 }
 
-/* Wider, more readable overlay on tablet */
-@media (min-width: 768px) and (max-width: 959px) {
+/* Wider overlay on tablet / small laptop */
+@media (min-width: 768px) and (max-width: 1279px) {
   .VPNavScreen .container {
     max-width: min(100%, 28rem);
     padding-bottom: max(96px, env(safe-area-inset-bottom, 0px));
@@ -410,7 +455,7 @@ html:not(.dark) {
   }
 }
 
-@media (min-width: 960px) and (max-width: 1320px) {
+@media (min-width: 1280px) and (max-width: 1320px) {
   .VPNavBar .VPNavBarMenuLink {
     padding-left: 8px;
     padding-right: 8px;
