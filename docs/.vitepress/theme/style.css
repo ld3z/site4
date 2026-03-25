@@ -341,3 +341,87 @@ html:not(.dark) {
 .VPSidebar::-webkit-scrollbar-thumb:hover {
   background-color: rgba(128, 128, 128, 0.35);
 }
+
+/**
+ * Responsive navigation — align with 960px “desktop” breakpoint
+ *
+ * Default VitePress shows the horizontal menu from 768px and hides the
+ * full-screen nav overlay from 768px up. That leaves tablets/narrow windows
+ * with many links + search in a single nowrap row (content clips). Below we
+ * keep the hamburger + overlay through 959px, and allow the bar to scroll
+ * horizontally on tight desktop widths.
+ * -------------------------------------------------------------------------- */
+
+/* Hamburger + full-screen menu below 960px (overrides default 768px) */
+@media (max-width: 959px) {
+  .VPNavBarHamburger {
+    display: flex !important;
+  }
+
+  .VPNavBarMenu {
+    display: none !important;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPNavBarHamburger {
+    display: none !important;
+  }
+
+  .VPNavBarMenu {
+    display: flex !important;
+  }
+}
+
+/* Let the overlay work on tablet widths (768–959); hide it again on desktop */
+@media (min-width: 768px) and (max-width: 959px) {
+  .VPNavScreen {
+    display: block !important;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPNavScreen {
+    display: none !important;
+  }
+}
+
+/* Wider, more readable overlay on tablet */
+@media (min-width: 768px) and (max-width: 959px) {
+  .VPNavScreen .container {
+    max-width: min(100%, 28rem);
+    padding-bottom: max(96px, env(safe-area-inset-bottom, 0px));
+  }
+}
+
+/*
+ * Crowded desktop bar: do NOT put overflow on .content-body — it clips flyout
+ * dropdowns (.VPFlyout .menu is position:absolute below the bar). Keep
+ * overflow visible; use flex shrink + tighter spacing on mid widths instead.
+ */
+@media (min-width: 960px) {
+  .VPNavBar .content {
+    min-width: 0;
+  }
+
+  .VPNavBar .content-body {
+    flex-wrap: nowrap;
+    column-gap: 0.35rem;
+  }
+}
+
+@media (min-width: 960px) and (max-width: 1320px) {
+  .VPNavBar .VPNavBarMenuLink {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  .VPNavBar .VPNavBarMenuGroup .button {
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+
+  .VPNavBar .VPNavBarMenu {
+    margin-left: 8px !important;
+  }
+}
