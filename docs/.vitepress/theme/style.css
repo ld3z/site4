@@ -287,6 +287,42 @@ html:not(.dark) {
   }
 }
 
+/* --- Navigation Bar Fixes: Title spacing and clickable area --- */
+
+@media (min-width: 960px) {
+  .VPNavBar .content-body {
+    padding: 0 var(--vp-float-gap) !important;
+  }
+
+  .VPNavBar.has-sidebar .title,
+  .VPNavBarTitle.has-sidebar .title {
+    max-width: 180px !important;
+  }
+
+  .VPNavBar .title,
+  .VPNavBarTitle .title {
+    flex-shrink: 0 !important;
+  }
+
+  .VPNavBar .VPNavBarTitle,
+  .VPNavBarTitle {
+    flex-shrink: 0 !important;
+    max-width: fit-content !important;
+  }
+
+  .VPNavBar .VPNavBarMenu {
+    margin-left: 16px !important;
+  }
+
+  .VPNavBar .item {
+    margin: 0 4px !important;
+  }
+
+  .VPNavBar .VPButton {
+    margin-left: 12px !important;
+  }
+}
+
 /* --- Sidebar scrollbar refinement --- */
 
 .VPSidebar::-webkit-scrollbar {
